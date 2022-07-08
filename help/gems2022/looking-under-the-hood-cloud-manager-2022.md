@@ -7,9 +7,9 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 8a6bbf6fb09e9e9d8ce42c6474830792cadc3250
+source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,18 @@ ht-degree: 0%
 
 # 正在查找引擎蓋 — Cloud Manager 2022
 
-*本網路研討會已於UTC 6月15日至下午3點進行。 一旦可用，我們將在此上發佈錄音 [上下文線程](https://adobe.ly/3O0rdzd)*
+*本網路研討會已於UTC 6月15日至下午3點進行。 請查看下面的錄制。*
 
 會話描述：瞭解去年發佈的新功能、幕後開發的最新情況，並展望2022年剩餘時間。 有關Cloud Manager在引擎蓋下如何工作以及客戶如何充分利用它的詳細資訊。  
 
 該內容既適用於Adobe Experience Manager as a Cloud Service，也適用於Experience ManagerManaged Services，重點是Cloud Service。 它適用於技術和非技術與會者。 事先接觸Cloud Manager有助於瞭解上下文，但不必。
 
+**網路研討會錄制**
+
+>[!VIDEO](https://video.tv.adobe.com/v/343876)
+
 >[!NOTE]
 >
 >* 有關Experience League的特定社區互動，請訪問 [上下文線程](https://adobe.ly/3O0rdzd)
->* 如果您不參加此網路研討會，請在 [AdobeAEM的用戶組](https://aem-augs.adobe.com/) 接收有關即將進行的AEMGEM網路研討會和相AEM關活動的通知。
+>* 要接收有關網路研討會的自動通知，請在 [AdobeAEM的用戶組](https://aem-augs.adobe.com/)。
 
