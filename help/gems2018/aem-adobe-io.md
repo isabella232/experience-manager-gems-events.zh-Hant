@@ -1,32 +1,26 @@
 ---
-title: 即時輕巧 — 使用Adobe I/O事件構建事AEM件驅動整合
-description: 厭倦了為你造連接器AEM? 瞭解您如何從「Adobe I/O事件」中公開任AEM何內部OSGi事件，以便輕鬆構建跨多個系統的事件驅動工作流。 I/O事件使您能夠即時響應管理事件和客戶行為。
+title: Real-time and lightweight - build event-driven integrations with AEM using Adobe I/O Events
+description: Tired of building connectors for AEM? Come learn how you can expose any internal OSGi events from AEM through Adobe I/O Events to build event-driven workflows across multiple systems with ease. I/O Events allows you to respond to both administrative events and customer behaviors in real-time.
 uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 1%
-
 ---
 
+# Real-time and lightweight: build event-driven integrations with AEM using Adobe I/O Events{#real-time-and-lightweight-build-event-driven-integrations-with-aem-using-adobe-i-o-events}
 
-# 即時輕量：使用「Adobe I/O事件」構建事AEM件驅動的整合{#real-time-and-lightweight-build-event-driven-integrations-with-aem-using-adobe-i-o-events}
-
-厭倦了為你造連接器AEM? 瞭解您如何從「Adobe I/O事件」中公開任AEM何內部OSGi事件，以便輕鬆構建跨多個系統的事件驅動工作流。 I/O事件使您能夠即時響應管理事件和客戶行為。
+Tired of building connectors for AEM? Come learn how you can expose any internal OSGi events from AEM through Adobe I/O Events to build event-driven workflows across multiple systems with ease. I/O Events allows you to respond to both administrative events and customer behaviors in real-time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22501/?quality=9)
 
-*2018年5月16日交付*
+*Delivered May 16, 2018*
 
-**提交者：**
+**Presented by:**
 
-Francois Le Droff，雲整合高級電腦科學家，Adobe
+Francois Le Droff, Senior Computer Scientist, Cloud Integration, Adobe
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/gem-2018-05-aem-events.pdf)
+[Get File](assets/gem-2018-05-aem-events.pdf)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

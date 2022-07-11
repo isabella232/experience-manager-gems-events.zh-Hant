@@ -1,33 +1,27 @@
 ---
-title: AEM 6.1翻譯整合和最佳實踐
-description: 獲取有關中增強的翻譯整合功能的演AEM示。 瞭解管理多語言網站的最佳做法。
+title: AEM 6.1 translation integration & best practices
+description: Get a presentation about enhanced translation integration capabilities in AEM. Learn best practices for managing multilingual web sites.
 uuid: 07db1af6-e823-44cb-8502-4b4a135902c9
 discoiquuid: b05a88a0-8a38-432b-99f7-23e3799ad209
 targetaudience: target-audience advanced
 exl-id: f0b36ac8-d77f-4a35-9a56-2afb37216718
-source-git-commit: b7806491034e1afcef503311de86bb15fda51460
-workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 2%
-
 ---
+# AEM 6.1 translation integration & best practices{#aem-translation-integration-best-practices}
 
-# AEM 6.1翻譯整合和最佳實踐{#aem-translation-integration-best-practices}
-
-Cristine和Mathias將在管理多語言網站方面提AEM供增強的翻譯整合能力和最佳做法。 您將學習如何：構建使用語言AEM副本/即時副本/ MSM的全球網站，如何整合翻譯服務提供商，以成功完成翻譯項目
+Cristine and Mathias will present enhanced translation integration capabilities in AEM and best practices for managing multilingual web sites. You will learn how to: structure global websites in AEM use language copies/ live copies/ MSM how to integrate translation service providers for successful completion of translation projects
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
-*2015年9月30日交付*
+*Delivered September 30, 2015*
 
-**提交者：**
+**Presented by:**
 
-* Christine Duran ，翻譯技術部經理，Adobe
-* Mathias Siegel ，高級產品經理，Adobe
+* Christine Duran, Sr Manager Translation Technologies, Adobe
+* Mathias Siegel, Sr Product Manager, Adobe
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
+[Get File](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

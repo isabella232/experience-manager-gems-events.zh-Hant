@@ -1,35 +1,29 @@
 ---
-title: AEM 5.6 Media Publisher深度挖掘
-description: 從體系結構角度概括瞭解CQ 5.6 Commerce Framework。 瞭解基於JCR儲存庫的參考實施的詳細資訊。
+title: AEM 5.6 Media Publisher deep dive
+description: Get an overview of the CQ 5.6 Commerce Framework from an architectural perspective. Learn the details of the reference implementation, based on the JCR repository.
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
 exl-id: 4efa0469-a5fd-41c9-9702-7de0fbc9db5a
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 2%
-
 ---
+# AEM 5.6 Media Publisher deep dive {#aem-media-publisher-deep-dive}
 
-# AEM 5.6 Media Publisher深度挖掘 {#aem-media-publisher-deep-dive}
-
-作為Adobe Experience Manager的一部分，CQ 5.6提供了新的商業框架，以在第三方商業平台之上構建體驗驅動的商業網站。 本會話從體系結構角度概括了該框架，並基於JCR儲存庫介紹了參考實現的一些詳細資訊。
+As part of Adobe Experience Manager, CQ 5.6 provides a new Commerce Framework to build Experience Driven Commerce websites on top of a third-party commerce platform. This session provides an overview of the framework from an architectural perspective and presents some details of the reference implementation, based on the JCR repository.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19574/?quality=9)
 
-*2013年4月17日交付*
+*Delivered April 17, 2013*
 
-**提交者：**
+**Presented by:**
 
-約翰費特
+John Fait
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/cq-gems-aem-media-publisher-04-17-2013-final.pdf)
+[Get File](assets/cq-gems-aem-media-publisher-04-17-2013-final.pdf)
 
-## 相關連結 {#related-links}
+## Related links {#related-links}
 
-* [文件](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [DPS產品頁](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [DPSCloud Service](https://digitalpublishing.acrobat.com/welcome.html)
+* [Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
+* [DPS Product Page](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [DPS Cloud Service](https://digitalpublishing.acrobat.com/welcome.html)

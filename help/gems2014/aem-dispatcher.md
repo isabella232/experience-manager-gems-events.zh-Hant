@@ -1,40 +1,34 @@
 ---
-title: Dispatcher — 新功能和最佳做法
-description: 此會話將探討調度程式中的新功能(自4.1.9版)，並在部署調度程式時查看一些最佳做法。
+title: Dispatcher - New features and best practices
+description: This session will explore new features in the dispatcher (since version 4.1.9) and look at some best practices when deploying the dispatcher.
 uuid: df8dc6ec-3785-4204-b0b9-e656a1a4db94
 discoiquuid: 732207fa-d0f6-4bc8-8cda-f25703e4b061
 targetaudience: target-audience advanced
 exl-id: 10015f99-68fe-4a76-aadd-9c68002d99cc
-source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
-workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 3%
-
 ---
+# Dispatcher - New features and best practices{#dispatcher-new-features-and-best-practices}
 
-# Dispatcher — 新功能和最佳做法{#dispatcher-new-features-and-best-practices}
-
-此會話將探討Dispatcher(自4.1.9版)中的新功能，並在部署Dispatcher時查看一些最佳做法。
+This session explores new features in the dispatcher (since version 4.1.9) and look at some best practices when deploying the dispatcher.
 
 >[!VIDEO](https://video.tv.adobe.com/v/20842/?quality=9)
 
-*2017年11月22日交付*
+*Delivered November 22, 2017*
 
-**提交者：**
+**Presented by:**
 
-多米尼克·菲斯特，高級電腦科學家，Adobe
+Dominique Pfister, Senior Computer Scientist, Adobe
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/dispatcher-aemgemsnov2017.pdf)
+[Get File](assets/dispatcher-aemgemsnov2017.pdf)
 
-## 資源 {#resources}
+## Resources {#resources}
 
-[有關Dispatcher Cache的詳細資訊](https://github.com/cqsupport/webinar-dispatchercache)
+[More on Dispatcher Cache](https://github.com/cqsupport/webinar-dispatchercache)
 
-[濫用JSONP與羅塞塔Flash](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
+[Abusing JSONP with Rosetta Flash](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
-[詳細資訊](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
+[More Info](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

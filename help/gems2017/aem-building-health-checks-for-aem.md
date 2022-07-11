@@ -1,32 +1,26 @@
 ---
-title: 生成運行狀況檢AEM查
-description: 確定實AEM例是否正常不是一項簡單任務。 此會話將讓您深入瞭解操作控制板的「運行狀況報告」部分。
+title: Building Health Checks for AEM
+description: Determining if an AEM instance is healthy is not a simple task. This session will give insight into the Health Reports section of the Operations Dashboard.
 uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
 exl-id: 8e3d6bfa-21bb-4c4e-8b89-580da648ea86
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 1%
-
 ---
+# Building Health Checks for AEM{#building-health-checks-for-aem}
 
-# 生成運行狀況檢AEM查{#building-health-checks-for-aem}
-
-確定實AEM例是否正常不是一項簡單任務。 此會話將讓您深入瞭解操作控制板的「運行狀況報告」部分：根據我們的安全和效能建議並使用Sling Health Check框架開發的一組開箱檢查。 您將瞭解如何修復一些通常失敗的運行狀況檢查，如何使用外部工具檢查結果，以及如何編寫您自己的應用程式特定的檢查。
+Determining if an AEM instance is healthy is not a simple task. This session will give insight into the Health Reports section of the Operations Dashboard: a collection of out-of-the-box checks, based on our security and performance recommendations and developed using the Sling Health Check framework. You will find out how you can fix some of the commonly failing health checks, how you can check their results with external tools and how you can write your own, application-specific checks.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19026/?quality=9)
 
-*2017年7月12日交付*
+*Delivered July 12, 2017*
 
-**Ana Vinatoru，軟體工程師，Adobe**
+**Ana Vinatoru, Software Engineer, Adobe**
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/aem-gems-health-checks-for-aem.pdf)
+[Get File](assets/aem-gems-health-checks-for-aem.pdf)
 
-## 相關連結 {#related-links}
+## Related links {#related-links}
 
-* [文AEM檔](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/operations-dashboard.html#Health%20Reports)
-* [Sling文檔](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)
+* [AEM Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/operations-dashboard.html#Health%20Reports)
+* [Sling Documentation](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)

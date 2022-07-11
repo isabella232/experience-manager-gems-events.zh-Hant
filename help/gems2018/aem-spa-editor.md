@@ -1,36 +1,30 @@
 ---
 title: AEM SPA Editor
-description: '隨著單頁應用程式(SPA)使整個訪問者體驗更具互動性，它們正在獲得廣泛的使用，即使是以內容為中心的體驗。 請加入我們，在本簡介中瞭解SPA有關編輯的更多資訊。 '
+description: As Single-Page Application (SPA) make the overall visitor experience more interactive, they are gaining popularity, even for content-centric experiences. Join us to learn more about the SPA Editor in this introduction. 
 uuid: d61f7398-c3e8-475a-a3c3-f71a8106c8f4
 discoiquuid: 8c6673c0-635e-453d-abf0-5d0db313329a
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 4%
-
 ---
 
+# AEM SPA Editor{#aem-spa-editor}
 
-# 編AEM輯SPA器{#aem-spa-editor}
-
-隨著單頁應用程式(SPA)使整個訪問者體驗更具互動性，它們正在獲得廣泛的使用，即使是以內容為中心的體驗。 到目前為止，Web體驗管理系統在上下文中編輯內容和佈局是非常繁瑣的SPA，因為其中斷的體系結構只佔用伺服器的JSON資料，並且將呈現給客戶端等所有其他責任委派給客戶端。 這迫使營銷商使用只有頭的CMS，並為任何佈局更改啟動開發週期，從而放鬆對任何佈局形式的控制，並影響更改的速度。 編SPA輯器將頁面編輯器的易用功AEM能帶回SPAJavaScript框架(如React或Angular)。 它允許前端開發人員像SPA過去那樣開發，同時讓非技術作者就地編輯內容。 請與我們一起瞭解本SPA簡介的編輯。
+As Single-Page Application (SPA) make the overall visitor experience more interactive, they are gaining popularity, even for content-centric experiences. So far, it was tedious when possible at all for Web Experience Management Systems to edit in-context the content and layout of SPAs, because of their disrupting architecture that only consumes JSON data from the server and delegates all other responsibilities like rendering to the client. This forced marketers to use headless-only CMS and to initiate a development cycle for any layout change, loosing their control over any form of layout and impacting the velocity of changes. The SPA Editor brings the easy-to-use capabilities of the AEM Page Editor back to SPA built with JavaScript frameworks like React or Angular. It allows front-end developers to develop such SPA like they are used to, while having non-technical authors to edit the content in-place. Please join us to learn more about the SPA Editor in this introduction. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24720/?quality=9)
 
-*已交付10/10/2018*
+*Delivered 10/10/2018*
 
-**提交者：**
+**Presented by:**
 
-Gabriel Walt ，產品經理，Adobe
+Gabriel Walt, Product Manager, Adobe
 
-**幻燈片演示文稿**
+**Slide Presentation**
 
-[取得檔案](assets/aem-spa-editor.pdf)
+[Get File](assets/aem-spa-editor.pdf)
 
-## 資源 {#resources}
+## Resources {#resources}
 
-[文檔：編AEM輯SPA器](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
+[Documentation: AEM SPA Editor](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

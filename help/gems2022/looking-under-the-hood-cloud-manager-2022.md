@@ -1,34 +1,28 @@
 ---
 title: Cloud Manager 2022
-description: 本AEMGEM網路研討會將包括以下內容的演示和演示：瀏覽去年發佈的新功能、幕後更新……（說明應介於60到160個字元之間）
+description: This AEM GEMs webinar will include a presentation and demo on the following:Explore the new features released in the last year, an update on behind-the-scenes … (Descriptions should be between 60 and 160 characters)
 version: Experience Manager
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
-workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 0%
-
 ---
 
+# Looking under the hood - Cloud Manager 2022
 
-# 正在查找引擎蓋 — Cloud Manager 2022
+*This webinar has been conducted on June 15th - 3pm UTC. Please view the recording below.*
 
-*本網路研討會已於UTC 6月15日至下午3點進行。 請查看下面的錄制。*
+Session description:
+Explore the new features released in the last year, an update on behind-the-scenes developments, and a look forward into the rest of 2022. Details about how Cloud Manager works under the hood and how a customer can make the best use of it.  
 
-會話描述：瞭解去年發佈的新功能、幕後開發的最新情況，並展望2022年剩餘時間。 有關Cloud Manager在引擎蓋下如何工作以及客戶如何充分利用它的詳細資訊。  
+The content applies to both Adobe Experience Manager as a Cloud Service and Experience Manager Managed Services, with a focus on Cloud Service. It’s suitable for technical and nontechnical attendees alike. Prior exposure to Cloud Manager can help for context, but it isn’t necessary.
 
-該內容既適用於Adobe Experience Manager as a Cloud Service，也適用於Experience ManagerManaged Services，重點是Cloud Service。 它適用於技術和非技術與會者。 事先接觸Cloud Manager有助於瞭解上下文，但不必。
-
-**網路研討會錄制**
+**Webinar Recording**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
->* 有關Experience League的特定社區互動，請訪問 [上下文線程](https://adobe.ly/3O0rdzd)
->* 要接收有關網路研討會的自動通知，請在 [AdobeAEM的用戶組](https://aem-augs.adobe.com/)。
-
+>* For session specific community interactions on Experience League, please visit this [Contextual Thread](https://adobe.ly/3O0rdzd)
+>* To receive automatic notifications regarding webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).

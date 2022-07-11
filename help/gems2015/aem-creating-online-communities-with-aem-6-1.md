@@ -1,32 +1,26 @@
 ---
-title: 建立具有6.AEM1的聯機社區
-description: 瞭解如何利用強AEM大的創作介面構建充滿活力的客戶社區，並瞭解在產品發佈後讓您的風扇群長期投入使用的工具。
+title: Create online communities with AEM 6.1
+description: Learn how to leverage AEM’s powerful authoring interface to build a vibrant customer community and learn the tools to keep your fan base engaged long after launch.
 uuid: 5b685948-697f-4095-85ad-f62db189bb30
 discoiquuid: 62b6b8d4-b763-4801-9918-447a2c5deb01
 targetaudience: target-audience advanced
 exl-id: 150e11da-7f6f-4d98-b5f2-33e54cf785f0
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 1%
-
 ---
+# Create online communities with AEM 6.1{#creating-online-communities-with-aem}
 
-# 建立具有6.AEM1的聯機社區{#creating-online-communities-with-aem}
-
-想像一下，在您的CQ工程師很少或沒有幫助的情況下，能夠在數小時內而不是數週內站立社區站點。 AEM Communities6.1將致力於通過嚮導驅動的模板方法提供這一能力，以涵蓋各種初始使用案例。 AEM Communities6.1還將提供通過WCM進一步定制這些新社區網AEM站的能力 [!DNL Sites] 功能。 與我們一起學習如何利用強AEM大的創作介面來構建充滿活力的客戶社區，並學習各種工具，使您的風扇群在產品推出後能夠長期投入使用。
+Imagine being able to stand up a community site in hours rather than weeks with little to no assistance from your CQ engineers. AEM Communities 6.1 will be focusing on providing this ability via a wizard-driven templated approach to cover a variety of initial use cases. AEM Communities 6.1 will also provide the ability to further customize these new community sites via AEM's WCM [!DNL Sites] capability. Join us to learn how to leverage AEM’s powerful authoring interface to build a vibrant customer community and learn the tools to keep your fan base engaged long after launch.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19381/?quality=9)
 
-*2015年7月22日交付*
+*Delivered July 22, 2015*
 
-**提交者：**
+**Presented by:**
 
-* Bertrand de Coatpont ,Adobe
+* Bertrand de Coatpont, Group Product Manager, Adobe
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/aem-6-1-communities-gems.pdf)
+[Get File](assets/aem-6-1-communities-gems.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

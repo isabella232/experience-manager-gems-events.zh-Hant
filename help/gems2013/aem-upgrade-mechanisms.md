@@ -1,36 +1,30 @@
 ---
-title: AEM 5.6升級機制
-description: 瞭解CQ/中的升級機制AEM，該機制允許通過將CQ/jar檔案替換為新檔案來升級CQ本身以及自定義應用程式和內AEM容。 我們將介紹一般升級方案，介紹升級擴展點，解釋我們如何test升級機制，並對與升級相關的一些技術難題發表評論。
+title: AEM 5.6 upgrade mechanisms
+description: Learn about upgrade mechanisms in CQ/AEM, which allows upgrading CQ itself as well as custom applications and content, by just replacing the CQ/AEM jar file with the new one. We'll go over the general upgrade scenario, describe the upgrade extension points, explain how we test the upgrade mechanisms and comment on some of the technical challenges related to upgrading.
 uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
 exl-id: 58d5acde-7914-4772-b10a-a34ba72cdd55
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 1%
-
 ---
+# AEM 5.6 upgrade mechanisms {#aem-upgrade-mechanisms}
 
-# AEM 5.6升級機制 {#aem-upgrade-mechanisms}
-
-本會話介紹CQ/中的升級機制AEM，通過將CQ/jar檔案替換為新檔案，可升級CQ本身以及自定義應用程式和內AEM容。 我們將介紹一般升級方案，介紹升級擴展點，解釋我們如何test升級機制，並對與升級相關的一些技術難題發表評論。
+This session describes the upgrade mechanisms in CQ/AEM, which allow upgrading CQ itself as well as custom applications and content, by just replacing the CQ/AEM jar file with the new one. We'll go over the general upgrade scenario, describe the upgrade extension points, explain how we test the upgrade mechanisms and comment on some of the technical challenges related to upgrading.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19576/?quality=9)
 
-*2013年5月22日交付*
+*Delivered May 22, 2013*
 
-**提交者：**
+**Presented by:**
 
-Bertrand Delacretaz，高級開發人員，Adobe
+Bertrand Delacretaz, Senior Developer, Adobe
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/cqgems-bdelacretaz-cq-upgrades-2013-05-22.pdf)
+[Get File](assets/cqgems-bdelacretaz-cq-upgrades-2013-05-22.pdf)
 
-## 相關連結 {#related-links}
+## Related links {#related-links}
 
-[文件](http://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
+[Documentation](http://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

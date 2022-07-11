@@ -1,34 +1,28 @@
 ---
-title: AEM6.5為世界做好準備 — 翻譯整合和最佳實踐
-description: 瞭解管理多AEM語言網站的當前翻譯功能和最佳做法。 瞭解如何構建全球網站、使用語言副本、即時副本和MSM。 使用高級功能實現更簡單、更快速、更易管理的內容翻譯。
+title: AEM 6.5 ready for the world - translation integration & best practices
+description: Learn about current AEM translation capabilities and best practices for managing multilingual web sites. Learn how to structure global websites, use language copies, live copies, and MSM. Achieve easier, faster, and more manageable content translation using advance features.
 uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 3%
-
 ---
 
+# AEM 6.5 ready for the world - translation integration & best practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
-# AEM6.5為世界做好準備 — 翻譯整合和最佳實踐{#aem-ready-for-the-world-translation-integration-best-practices}
+This session presents current AEM translation capabilities and best practices for managing multilingual web sites. You learn how to structure global websites and use language copies, live copies, and MSM. The session also covers how to achieve easier, faster, and more manageable content translation using advance features.
 
-本次會議介紹了AEM管理多語言網站的當前翻譯能力和最佳做法。 您將學習如何構建全球網站並使用語言副本、即時副本和MSM。 此次會議還介紹如何使用高級功能實現更簡單、更快速、更易管理的內容翻譯。
+**Presented by:**
 
-**提交者：**
-
-* Ankur Sial，電腦科學家，Adobe
-* Harpreet Neelu，項目經理，Adobe
+* Ankur Sial, Computer Scientist, Adobe
+* Harpreet Neelu, Program Manager, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/31153?quality=9)
 
-*已交付01/22/2020*
+*Delivered 01/22/2020*
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/gems-2020-translations.pdf)
+[Get File](assets/gems-2020-translations.pdf)
 
-Q和A屆會議 — 2020年2月PDF
+Session Q and A - February 2020 PDF
 
-[取得檔案](assets/aem-gems-translationqnafeb2020.pdf)
+[Get File](assets/aem-gems-translationqnafeb2020.pdf)

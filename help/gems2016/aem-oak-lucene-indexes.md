@@ -1,39 +1,33 @@
 ---
-title: 奧克·盧塞內指數
-description: 我們描述了Oak Lucene索引的功能，以及如何使用這些索引來使查詢效能更好。 在第二部分，我們將討論非同步索引在一般情況下如何工作以及如何監視它。
+title: Oak Lucene Indexes
+description: We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 exl-id: 5eaed3e2-9bb5-400e-950e-8a6161590acc
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 2%
-
 ---
+# Oak Lucene Indexes{#oak-lucene-indexes}
 
-# 奧克·盧塞內指數{#oak-lucene-indexes}
-
-我們描述了Oak Lucene索引的功能，以及如何使用這些索引來使查詢效能更好。 在第二部分，我們將討論非同步索引在一般情況下如何工作以及如何監視它。
+We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19303/?quality=9)
 
-*2016年1月20日交付*
+*Delivered January 20, 2016*
 
-**提交者：**
+**Presented by:**
 
-* 切坦·梅赫羅特拉，高級電腦科學家，Adobe
-* Alex Parvulescu，高級開發人員，Adobe
+* Chetan Mehrotra, Senior Computer Scientist, Adobe
+* Alex Parvulescu, Senior Developer, Adobe
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
+[Get File](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 
-**會話問題和答案**
+**Session Questions and Answers**
 
-[取得檔案](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
+[Get File](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
 
-## 相關連結 {#related-links}
+## Related links {#related-links}
 
-* [Oak查詢和索引](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
-* [Oak文檔：盧塞內指數](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
+* [Oak Queries and Indexing](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
+* [Oak Documentation: Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

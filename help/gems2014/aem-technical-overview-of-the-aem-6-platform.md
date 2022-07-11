@@ -1,35 +1,29 @@
 ---
-title: 6平台技AEM術概述
-description: 在此會話中， Peter Klassen — 產品經理將重新載入JCR儲存庫、效能改進和新的可擴充性選項。
+title: Technical overview of the AEM 6 platform
+description: In this session, Peter Klassen - Product Manager, looks JCR Repository reloaded, performance improvements, and new scalability options.
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
 exl-id: adfa8ba5-943b-4363-b810-b452078681ab
-source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
-workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 1%
-
 ---
+# Technical overview of the AEM 6 platform{#technical-overview-of-the-aem-platform}
 
-# 6平台技AEM術概述{#technical-overview-of-the-aem-platform}
-
-在此會話中，Peter Klassen — 產品經理將查看以下內容：JCR儲存庫已重新載入 — 效能改進和新的可擴充性選項一目瞭然AEM，在6中使用mongoDB ，在何處儲存二進位檔案 — 新的DataStore選項概述，平台操作變得輕鬆。 本次會議的目標受眾是合作夥伴和客戶；項目經理、建築師和管理員。
+In this session Peter Klassen - Product Manager will look at the following: JCR Repository reloaded - performance improvements and new scalability options at one sight, mongoDB in AEM 6, where to store binaries - new DataStore options overview, platform operations made easy. The targeted audience for this session are partners and customers; project managers, architects and administrators.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 
-*2014年6月11日交付*
+*Delivered June 11, 2014*
 
-**提交者：**
+**Presented by:**
 
-Peter Klassen ，產品經理，Adobe
+Peter Klassen, Product Manager, Adobe
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/aem6-platform-whatsnew.pdf)
+[Get File](assets/aem6-platform-whatsnew.pdf)
 
-## 相關連結 {#related-links}
+## Related links {#related-links}
 
-* [AEM 6.0發行說明](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
-* [管理AEM6.0](http://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [計畫升級AEM到6.0](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [AEM 6.0 Release Notes](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [Managing AEM 6.0](http://docs.adobe.com/docs/en/aem/6-0/manage.html)
+* [Planning your upgrade to AEM 6.0](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

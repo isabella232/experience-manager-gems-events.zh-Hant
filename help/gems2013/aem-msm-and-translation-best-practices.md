@@ -1,35 +1,29 @@
 ---
-title: MSM和翻譯 — 最佳做法
-description: 本網路研討會將研究MSM與多語言網站翻譯的交叉點。 我們介紹了翻譯所引入的複雜性、站點結構建議，以及各種使用情形的翻譯連接器和工具的簡要比較。
+title: MSM and translation - best practices
+description: This webinar examines the intersection of MSM and translation for multilingual websites. We cover the complexities introduced by translation, recommendations for site structure, and a brief comparison of translation connectors and tools for various use cases.
 uuid: e03f11cc-f16e-428b-91b7-dad22b1f2969
 discoiquuid: 4dc97a95-c401-499c-b5f6-8ffc6f464468
 targetaudience: target-audience advanced
 exl-id: 7e691407-b1be-440c-a04b-290dadef113f
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 1%
-
 ---
+# MSM and Translation: Best Practices {#msm-and-translation-best-practices}
 
-# MSM和翻譯：最佳做法 {#msm-and-translation-best-practices}
+This webinar examines the intersection of MSM and translation for multilingual websites. We cover the complexities introduced by translation, recommendations for site structure, and a brief comparison of translation connectors and tools for various use cases. 
 
-本網路研討會將研究MSM與多語言網站翻譯的交叉點。 我們介紹了翻譯所引入的複雜性、站點結構建議，以及各種使用情形的翻譯連接器和工具的簡要比較。
+**Presented by:**
 
-**提交者：**
+Christine Duran, Sr Translation Technology Group Manager, Adobe
 
-Christine Duran ，首席翻譯技術組經理，Adobe
+**Presenter slides**
 
-**演示者幻燈片**
+[Get File](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
 
-[取得檔案](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
+## Related links {#related-links}
 
-## 相關連結 {#related-links}
+The original content of this GEM session from 2013 has been replaced. The information was out-of-date.
 
-2013年此GEM會議的原始內容已被替換。 資訊已過時。
+Instead read more about Best Practices in the Adobe Experience Manager documentation:
 
-而是閱讀有關Adobe Experience Manager文檔中最佳做法的更多資訊：
-
-* [多站點管理最佳做法](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
-* [翻譯最佳做法](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [返回「概述」](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Multi-site Management Best Practices](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
+* [Translation Best Practices](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
+* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

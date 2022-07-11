@@ -1,33 +1,27 @@
 ---
-title: 用6.5創造無頭人AEM體驗
-description: 您需要創造出下一級的流暢體驗，以便在不斷發展的數字環境中跟上快節奏的客戶。 瞭解Adobe Experience Manager6.5的最新創新如何使其成為可能。 深入探討關鍵創新，如單頁應用程式(SPA)編輯器、內容和體驗片段、上下文內容編輯等。 利用上述創新加速和自動化跨渠道設計和交付經驗的最佳做法。 Adobe Experience Manager內容服務框架簡介。 演示客戶跨移動、單頁應用程式和電子郵件的旅程。 設計成熟和新興渠道時的架構考慮。
+title: Creating Headless Omnichannel Experiences with AEM 6.5
+description: You need to create the next level of fluid experiences to keep up with your fast-paced customers in the evolving digital landscape. Learn how the latest innovations in Adobe Experience Manager 6.5 can make it possible. Deep-dive into key innovations such as Single-Page Application (SPA) Editor, Content & Experience fragments, In-context editing, and many more. Best practices for leveraging the above innovations to accelerate and automate the design and delivery of experiences across channels. Introduction to the Content Services Framework in Adobe Experience Manager. A demo of the customer journey across mobile, single page applications, and email. Architectural considerations when designing for mature and emerging channels.
 uuid: 126e5518-b8c0-41e7-9b99-78d9d80b18b0
 discoiquuid: 77929dd9-2a0b-45e2-bffb-7a6e6ac1d9bd
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 0%
-
 ---
 
+# Creating Headless Omnichannel Experiences with AEM 6.5{#creating-headless-omnichannel-experiences-with-aem}
 
-# 用6.5創造無頭人AEM體驗{#creating-headless-omnichannel-experiences-with-aem}
-
-您需要創造出下一級的流暢體驗，以便在不斷發展的數字環境中跟上快節奏的客戶。 瞭解Adobe Experience Manager6.5的最新創新如何使其成為可能。 深入探討關鍵創新，如單頁應用程式(SPA)編輯器、內容和體驗片段、上下文內容編輯等。 利用上述創新加速和自動化跨渠道設計和交付經驗的最佳做法。 Adobe Experience Manager內容服務框架簡介。 演示客戶跨移動、單頁應用程式和電子郵件的旅程。 設計成熟和新興渠道時的架構考慮。
+You need to create the next level of fluid experiences to keep up with your fast-paced customers in the evolving digital landscape. Learn how the latest innovations in Adobe Experience Manager 6.5 can make it possible. Deep-dive into key innovations such as Single-Page Application (SPA) Editor, Content & Experience fragments, In-context editing, and many more. Best practices for leveraging the above innovations to accelerate and automate the design and delivery of experiences across channels. Introduction to the Content Services Framework in Adobe Experience Manager. A demo of the customer journey across mobile, single page applications, and email. Architectural considerations when designing for mature and emerging channels.
 
 >[!NOTE]
 >
->本網路研討會是在Experience Insider內提供的，並保存在此供參考。
+>This webinar was delivered within Experience Insider and is kept here for reference.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27088/?quality=9)
 
-*已交付04/16/19*
+*Delivered 04/16/19*
 
-**提交者：**
+**Presented by:**
 
-* Amol Anand，首席顧問，技術架構師，Adobe
+* Amol Anand, Principal Consultant, Technical Architect, Adobe
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/headless-omnichannelwebinar04162019.pdf)
+[Get File](assets/headless-omnichannelwebinar04162019.pdf)

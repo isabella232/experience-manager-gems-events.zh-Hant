@@ -1,40 +1,34 @@
 ---
-title: 為企業配置DAM
-description: 本次會議旨在幫助用戶利用AEM Assets提高成功率。 Arnold Espos將重點介紹真正的DAM企業客戶的使用案例、他們面臨的挑戰，以及為支援他們而建立的解決方案，以增加他們在DAM方面所看到的成功。   與會者將能夠更好地瞭解如何在其環境中使用DAM。 通過從實際客戶那裡看到案例研究，與現有DAM客戶合作的與會者將能夠瞭解通過此產品提供的新解決方案，這有助於他們現有的工作流程和對技術的瞭解。
+title: Configuring the DAM for Enterprise
+description: This session is designed to help users improve success leveraging AEM Assets. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   Attendees will be able to better understand how to use DAM in their environments. Through seeing case studies from real customers, attendees working with existing DAM customers will be able understand the new solutions provided through this offering, which can help their existing workflows and understanding of the technology.
 uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: fad623ba-3a83-4944-ba54-dfde9b82cc84
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 0%
-
 ---
+# Configuring the DAM for Enterprise{#configuring-the-dam-for-enterprise}
 
-# 為企業配置DAM{#configuring-the-dam-for-enterprise}
+This session is designed to help users improve success leveraging [!DNL AEM Assets]. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   
 
-此會話旨在幫助用戶利用 [!DNL AEM Assets]。 Arnold Espos將重點介紹真正的DAM企業客戶的使用案例、他們面臨的挑戰，以及為支援他們而建立的解決方案，以增加他們在DAM方面所看到的成功。
-
-與會者將能夠更好地瞭解如何在其環境中使用DAM。 通過從實際客戶那裡看到案例研究，與現有DAM客戶合作的與會者將能夠瞭解通過此產品提供的新解決方案，這有助於他們現有的工作流程和對技術的瞭解。
+Attendees will be able to better understand how to use DAM in their environments. Through seeing case studies from real customers, attendees working with existing DAM customers will be able understand the new solutions provided through this offering, which can help their existing workflows and understanding of the technology.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19298/?quality=9)
 
-*2016年10月5日交付*
+*Delivered October 5, 2016*
 
-**提交者：**
+**Presented by:**
 
-* Arnold Espos ，高級產品經理，Adobe
-* Josh Ramirez，產品部主管， [!DNL AEM Assets],Adobe
-* Greg Klebus ，組產品經理，Adobe
+* Arnold Espos, Sr. Product Manager, Adobe
+* Josh Ramirez, Head of Product, [!DNL AEM Assets], Adobe
+* Greg Klebus, Group Product Manager, Adobe
 
-**演示者幻燈片**
+**Presenter slides**
 
-[取得檔案](assets/assets-webinar-oct5final.pdf)
+[Get File](assets/assets-webinar-oct5final.pdf)
 
-## 相關連結 {#related-links}
+## Related links {#related-links}
 
-* [AEM Assets文檔更新](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
-* [《 AEM 6.1 SP2發佈說明》](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
-* [《 AEM 6.2 Desktop App發佈說明》](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)
+* [AEM Assets Documentation Updates](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
+* [AEM 6.1 SP2 Release Notes](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
+* [AEM 6.2 Desktop App Release Notes](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)
