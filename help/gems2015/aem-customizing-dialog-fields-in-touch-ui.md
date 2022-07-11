@@ -1,32 +1,38 @@
 ---
-title: Customize dialog fields in Touch UI
-description: Learn how to implement custom fields (or widgets) for Touch UI dialogs in AEM 6.1. Discover how things that were previously done with ExtJS (Classic UI) can now be done using Granite UI and Coral UI.
+title: 在Touch UI中自定義對話框欄位
+description: 瞭解如何在6.1中為Touch UI對話框實現自定義域（或小部件）AEM。瞭解以前使用ExtJS(Classic UI)執行的操作現在如何使用Granite UI和Coral UI完成。
 uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
 exl-id: 8f7d0072-b741-46af-8f4e-6ea6705f3a33
+source-git-commit: b7806491034e1afcef503311de86bb15fda51460
+workflow-type: tm+mt
+source-wordcount: '121'
+ht-degree: 1%
+
 ---
-# Customize dialog fields in Touch UI{#customizing-dialog-fields-in-touch-ui}
 
-In this session, we will explain how to implement custom fields (or widgets) for Touch UI dialogs in AEM 6.1. The goal is to show you how things that were previously done with ExtJS (Classic UI) could now be done using Granite UI and Coral UI:
+# 在Touch UI中自定義對話框欄位{#customizing-dialog-fields-in-touch-ui}
 
-* Creating a new field
-* Extending an existing field
-* Handling validation
-* Handling events
+在本會話中，我們將介紹如何在6.1中為Touch UI對話框實現自定義欄位（或小部件）AEM。目標是向您展示以前使用ExtJS(Classic UI)完成的操作現在如何使用Granite UI和Coral UI完成：
+
+* 建立新欄位
+* 擴展現有欄位
+* 處理驗證
+* 處理事件
 
 >[!VIDEO](https://video.tv.adobe.com/v/19373/?quality=9)
 
-*Delivered October 7, 2015*
+*2015年10月7日交付*
 
-**Presented by:**
+**提交者：**
 
-* Christanto Leonardo, Senior Developer, Adobe
-* Christian Meyer, Developer, Adobe
+* Christanto Leonardo，高級開發人員，Adobe
+* Christian Meyer，開發人員，Adobe
 
-**Presenter slides**
+**演示者幻燈片**
 
-[Get File](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
+[取得檔案](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

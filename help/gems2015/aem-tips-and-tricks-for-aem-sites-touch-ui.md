@@ -1,30 +1,36 @@
 ---
-title: Tips and tricks for AEM Sites Touch UI
-description: Learn the coolest tips and tricks about [!DNL AEM Sites] Touch UI. Discover the features of the Touch UI you may or may not know about that allow you to accomplish more, and do it faster. Whether you’re a content strategist or a content marketer, you will discover some of the hidden gems of the Touch UI that will make you more efficient and productive.
+title: AEM SitesTouch UI的技巧和技巧
+description: 瞭解有關 [!DNL AEM Sites] 觸摸UI。 瞭解您可能或可能不知道的觸摸UI功能，以便您完成更多任務並更快地完成。 無論您是內容策略師還是內容營銷員，您都會發現Touch UI中隱藏的一些寶石，這將提高您的效率和工作效率。
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: 3a7f3724-5581-4aa4-a31e-20638639866f
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '179'
+ht-degree: 0%
+
 ---
-# Tips and tricks for [!DNL AEM Sites] Touch UI{#tips-and-tricks-for-aem-sites-touch-ui}
 
-Learn the coolest tips and tricks about [!DNL AEM Sites] Touch UI. Discover the features of the Touch UI you may or may not know about that allow you to accomplish more, and do it faster. Whether you’re a content strategist or a content marketer, you will discover some of the hidden gems of the Touch UI that will make you more efficient and productive.
+# 提示和技巧 [!DNL AEM Sites] 觸摸UI{#tips-and-tricks-for-aem-sites-touch-ui}
 
-In this GEM, learn how to: 
+瞭解有關 [!DNL AEM Sites] 觸摸UI。 瞭解您可能或可能不知道的觸摸UI功能，以便您完成更多任務並更快地完成。 無論您是內容策略師還是內容營銷員，您都會發現Touch UI中隱藏的一些寶石，這將提高您的效率和工作效率。
 
-* Efficiently navigate and find content
-* Organize content and collaborate on it
-* Keep an overview of what is going on
-* Author content
+在此GEM中，瞭解如何：
+
+* 高效導航和查找內容
+* 組織內容並在其上進行協作
+* 概要瞭解發生的情況
+* 作者內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/19377/?quality=9)
 
-*Delivered June 3, 2015*
+*2015年6月3日交付*
 
-**Presented by:**
+**提交者：**
 
-* Gabriel Walt, Product Manager, Adobe
-* Gilles Knobloch, Engineering Manager, Adobe
+* Gabriel Walt ，產品經理，Adobe
+* 吉爾斯·諾布洛赫，工程經理，Adobe
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -1,6 +1,6 @@
 ---
-title: Build websites faster with AEM Headless and App Builder
-description: Watch a presentation and demo about how to quickly bootstrap and deploy single-page app (SPA) using Adobe App Builder workflows ant tools.
+title: 使用Headless和App AEMBuilder更快地構建網站
+description: 觀看演示和演示，瞭解如何使用AdobeApp Builder工作流工具快速引導和部署單SPA頁應用程式()。
 version: Cloud Service, 6.5
 feature: App Builder
 topic: Headless
@@ -8,20 +8,26 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
+source-git-commit: 92f46eab76b1a89216039d830b1683d259d3db44
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 0%
+
 ---
 
-# Build websites faster with AEM Headless and App Builder
 
-This AEM GEMs webinar recording includes a presentation and demo on the following:
+# 使用Headless和App AEMBuilder更快地構建網站
 
-Quickly bootstrap and deploy single-page apps (SPA) using Adobe App Builder workflows and tools, without traditional Experience Manager skills, like Java and Sling, being required. With Experience Manager Headless, marketers and developers can have expertise in their own domain. Developers control the overall application framework while marketers determine the content and how it’s displayed.
+本AEMGEM網路研討會錄制包括以下演示和演示：
+
+使用AdobeApp Builder工作流和工具快速引導和部署單頁應用程式(SPA)，而不需要傳統的Experience Manager技能，如Java和Sling。 有了Experience Manager無頭公司，營銷人員和開發人員就可以在自己的領域擁有專業知識。 開發人員控制整個應用程式框架，同時營銷人員確定內容及其顯示方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
-This webinar was conducted on March 23rd, 2022 and presented by Duy Nguyen, Software Development Engineer
+本網路研討會於2022年3月23日舉行，由軟體開發工程師Duy Nguyen介紹
 
 >[!MORELIKETHIS]
 >
->* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
->* [Corresponding Contextual Thread](https://adobe.ly/3LkSWdm)
->* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.
+>* [對應的Adobe Experience Manager用戶組事件頁](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
+>* [相應上下文線程](https://adobe.ly/3LkSWdm)
+>* 請在 [AdobeAEM的用戶組](https://aem-augs.adobe.com/) 獲取有關即將進行的網路研討會的通知。

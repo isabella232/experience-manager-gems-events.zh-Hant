@@ -1,29 +1,35 @@
 ---
-title: Introducing the AEM Modernization Suite
-description: Learn how to convert static template pages to editable templates. Learn how to convert custom or legacy components to Core Component Proxies, and more.
+title: 介紹現代化AEM套件
+description: 瞭解如何將靜態模板頁轉換為可編輯模板。 瞭解如何將自定義或舊式元件轉換為核心元件代理等。
 uuid: f1b17a0f-055f-48f4-a0be-e50318b3349d
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '158'
+ht-degree: 1%
+
 ---
 
-# Introducing the AEM Modernization Suite{#introducing-the-aem-modernization-suite}
 
-Some Customers still rely on the Classic UI for their AEM Sites authoring experience. With the deprecation of this interface, a Summit lab was proposed to help our customers update their implementations to the newest capabilities. To support the Lab and provide our customers with the necessary means, Bryan Stopp and Gilles Knobloch created the AEM Modernization Tool Suite.  Come learn about this new tool’s capabilities to: 
+# 介紹現代化AEM套件{#introducing-the-aem-modernization-suite}
 
-* Convert Static Template Pages to Editable Templates
-* Convert Custom/Legacy components to Core Component Proxies (or other custom Components)
-* Import and Convert Component Designs as Editable Template Policies
-* And (of course) Update Classic/Coral2 Dialogs to Coral 3 Dialogs  
+有些客戶仍然依賴經典用戶介面來獲得其AEM Sites創作體驗。 由於此介面的棄用，我們建議使用一個Summit實驗室來幫助我們的客戶更新其實施到最新的功能。 為了支援實驗室並為我們的客戶提供必要的手段，布萊恩斯托普和吉爾史諾布洛赫創AEM建了現代化工具套件。  瞭解此新工具的功能：
+
+* 將靜態模板頁轉換為可編輯模板
+* 將自定義/舊式元件轉換為核心元件代理（或其他自定義元件）
+* 將元件設計導入和轉換為可編輯模板策略
+* （當然）將Classic/Coral2對話框更新為Coral 3對話框
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*Delivered 05/08/19*
+*已交付05/08/19*
 
-**Presented by:**
+**提交者：**
 
-* Bryan Stopp, AEM Technical Architect, Adobe
-* Gilles Knobloch, Senior Engineering Manager, Adobe
+* Bryan Stopp，技AEM術架構師，Adobe
+* 吉爾斯·諾布洛赫，高級工程經理，Adobe
 
-**Presenter slides**
+**演示者幻燈片**
 
-[Get File](assets/modernization-toolsaemgems.pdf)
+[取得檔案](assets/modernization-toolsaemgems.pdf)

@@ -1,27 +1,33 @@
 ---
-title: AEM sustenance - Best practices for deploying AEM maintenance releases
-description: Join us to know the best practices for deploying AEM Maintenance Releases i.e. Service Packs & Cumulative Fix Packs. We will also cover the common challenges in deploying them and demonstrate improvements done in package manager. In this session you will learn best practices, validations and monitoring tips for deployments of maintenance releases.
+title: AEM維護 — 部署維護版本的AEM最佳做法
+description: 與我們一起瞭解部署維護版AEM本（即Service Packs和Cumulative Fix Packs）的最佳做法。 我們還將介紹在部署它們時遇到的常見難題，並演示在包管理器中所做的改進。 在此會話中，您將學習部署維護版本的最佳做法、驗證和監視提示。
 uuid: ff4d7884-c3df-44a9-9863-78a79fa58fad
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 1%
+
 ---
 
-# AEM sustenance - Best practices for deploying AEM maintenance releases{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
 
-Join us to know the best practices for deploying AEM Maintenance Releases i.e. Service Packs & Cumulative Fix Packs. We will also cover the common challenges in deploying them and demonstrate improvements done in package manager. In this session you will learn best practices, validations and monitoring tips for deployments of maintenance releases.
+# AEM維護 — 部署維護版本的AEM最佳做法{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
+
+與我們一起瞭解部署維護版AEM本（即Service Packs和Cumulative Fix Packs）的最佳做法。 我們還將介紹在部署它們時遇到的常見難題，並演示在包管理器中所做的改進。 在此會話中，您將學習部署維護版本的最佳做法、驗證和監視提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18982/?quality=9)
 
-*Delivered June 28,2017*
+*2017年6月28日交付*
 
-**Presented by:**
+**提交者：**
 
-* Gurpreet Singh Bhatia, Lead Software Engineer, AEM Sustaining Engineering, Adobe
-* Karanjeet Singh, Senior Software Engineer, AEM Sustaining Engineering, Adobe
+* Gurpreet Singh Bhatia，持續工程部軟AEM件工程師，Adobe
+* Karanjeet Singh，高級軟體工程師，維AEM持工程，Adobe
 
-**Presenter slides**
+**演示者幻燈片**
 
-[Get File](assets/aem-sustenance-best-practices-gems.pdf)
+[取得檔案](assets/aem-sustenance-best-practices-gems.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

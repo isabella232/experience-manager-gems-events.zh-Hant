@@ -1,25 +1,31 @@
 ---
-title: AEM Rich Text Editor (RTE) Deep Dive
-description: Learn the Best Practices around the rich configurations and use of RTE in AEM. We will cover the different use-cases, limitations, pitfalls, configuration workflow and common troubleshooting steps while using RTE in AEM. We will also touch upon its Command-Plugin Architecture and core concepts like Html Rules, Kernel and De-serialization.
+title: 富AEM格文本編輯器(RTE)深入
+description: 瞭解RTE在中的豐富配置和使用方面的最佳做法AEM。 我們將介紹在中使用RTE時的不同使用情形、限制、缺陷、配置工作流和常見故障排除步AEM驟。 我們還將介紹其命令插件體系結構和核心概念，如Html規則、內核和反序列化。
 uuid: c55837d1-5703-44a9-b901-ab2e68d75dcb
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 1%
+
 ---
 
-# AEM Rich Text Editor (RTE) Deep Dive{#aem-rich-text-editor-rte-deep-dive}
 
-Learn the Best Practices around the rich configurations and use of RTE in AEM. We will cover the different use-cases, limitations, pitfalls, configuration workflow and common troubleshooting steps while using RTE in AEM. We will also touch upon its Command-Plugin Architecture and core concepts like Html Rules, Kernel and De-serialization.
+# 富AEM格文本編輯器(RTE)深入{#aem-rich-text-editor-rte-deep-dive}
 
-## AEM Rich Text Editor (RTE) Deep Dive
+瞭解RTE在中的豐富配置和使用方面的最佳做法AEM。 我們將介紹在中使用RTE時的不同使用情形、限制、缺陷、配置工作流和常見故障排除步AEM驟。 我們還將介紹其命令插件體系結構和核心概念，如Html規則、內核和反序列化。
+
+## 富AEM格文本編輯器(RTE)深入
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 
-*Delivered 04/17/19*
+*已交付04/17/19*
 
-**Presented by:**
+**提交者：**
 
-Hanish Bansal, Computer Scientist, Adobe
+哈尼什·班薩爾，電腦科學家，Adobe
 
-Presenter slides, Date: 04/17/2019
+演示者幻燈片，日期：04/17/2019
 
-[Get File](assets/aem-gems-aem-rte-04172019.pdf)
+[取得檔案](assets/aem-gems-aem-rte-04172019.pdf)

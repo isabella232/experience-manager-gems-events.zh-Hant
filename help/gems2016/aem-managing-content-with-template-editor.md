@@ -1,32 +1,38 @@
 ---
-title: Managing your content with the template editor of Adobe Experience Manager
-description: With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood.
+title: 使用Adobe Experience Manager的模板編輯器管理您的內容
+description: 隨著Adobe Experience Manager6.2的推出，新的模板編輯器提供了構建、構造和配置數字屬性的新的、強大的方法。 從超級作者的角度瀏覽該功能，瞭解它如何允許編寫不同的頁面模板並精確地控製作者在相應頁面上可以執行的操作。 最後，深入內部力學，瞭解它在引擎蓋下的工作原理。
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: c4f5077f-9e10-4bcc-8f7a-60b67b282838
----
-# Managing your content with the template editor of Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '223'
+ht-degree: 1%
 
-With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood. In this session: - Learn how the template editor can make sites more flexible - Have an overview of how the templating mechanics operate
+---
+
+# 使用Adobe Experience Manager的模板編輯器管理您的內容{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
+
+隨著Adobe Experience Manager6.2的推出，新的模板編輯器提供了構建、構造和配置數字屬性的新的、強大的方法。 從超級作者的角度瀏覽該功能，瞭解它如何允許編寫不同的頁面模板並精確地控製作者在相應頁面上可以執行的操作。 最後，深入內部力學，瞭解它在引擎蓋下的工作原理。 在此會話中： — 瞭解模板編輯器如何使站點更靈活 — 瞭解模板化操作的操作方式
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
-*Delivered September 14, 2016*
+*2016年9月14日交付*
 
-**Presented by:**
+**提交者：**
 
-* Patrick Fauchere, Software Engineer, Adobe
+* Patrick Fauchere，軟體工程師，Adobe
 
-Chat expert,
+聊天專家，
 
-* Gabriel Walt, Product Manager, Adobe
+* Gabriel Walt ，產品經理，Adobe
 
-**Presenter slides**
+**演示者幻燈片**
 
-[Get File](assets/aem-gems-91416-template-editor.pdf)
+[取得檔案](assets/aem-gems-91416-template-editor.pdf)
 
-## Related links {#related-links}
+## 相關連結 {#related-links}
 
-* [Page Templates](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
-* [Creating Page Templates](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)
+* [頁面範本](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
+* [建立頁面模板](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)

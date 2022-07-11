@@ -1,34 +1,40 @@
 ---
-title: Architecture of the AEM 5.6 platform
-description: Learn about the evolution of the architecture of the AEM application platform. Since the first release of Communiqué 1, until the most recent launch of AEM 5.6, the application underwent several changes to become the versatile and extensible application platform it is today.
+title: 5.AEM6平台體系結構
+description: 瞭解應用平台體系結構的AEM演化。 自《公報1》首次發佈以來，直到最近AEM5.6號發佈，該應用經歷了幾次變化，成為如今通用且可擴展的應用平台。
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
 exl-id: 5e4c5722-671e-49c7-bb0c-530b387500e6
----
-# Architecture of the AEM 5.6 platform{#architecture-of-the-aem-platform}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '124'
+ht-degree: 4%
 
-Learn about the evolution of the architecture of the AEM Application Platform. Since the first release of Communiqué 1 until the most recent launch of AEM 5.6 the application underwent several massive changes to become the versatile and extensible application platform it is now.
+---
+
+# 5.AEM6平台體系結構{#architecture-of-the-aem-platform}
+
+瞭解應用平台體系結構AEM的演化。 自《公報1》首次發佈至最近5.6AEM版發佈以來，該應用程式經歷了幾次巨大變化，成為如今通用且可擴展的應用平台。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*Delivered May 8, 2013*
+*2013年5月8日交付*
 
-**Presented by:**
+**提交者：**
 
-Felix Meschberger, Principal Scientist, Adobe
+Felix Meschberger，首席科學家，Adobe
 
-**Presenter slides**
+**演示者幻燈片**
 
-[Get File](assets/20130508-aem56-architecture.pdf)
+[取得檔案](assets/20130508-aem56-architecture.pdf)
 
-**Session questions and answers**
+**會議問題和回答**
 
-[Get File](assets/questionsanswers-aem56-architecture.pdf)
+[取得檔案](assets/questionsanswers-aem56-architecture.pdf)
 
-## Related links {#related-links}
+## 相關連結 {#related-links}
 
-[Documentation](https://docs.adobe.com/docs/en/cq/5-6-1/exploring/introduction.html?wcmmode=disabled)
+[文件](https://docs.adobe.com/docs/en/cq/5-6-1/exploring/introduction.html?wcmmode=disabled)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

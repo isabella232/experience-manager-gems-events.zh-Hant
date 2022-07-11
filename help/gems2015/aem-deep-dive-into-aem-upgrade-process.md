@@ -1,31 +1,37 @@
 ---
-title: Deep dive into AEM upgrade process
-description: Learn about the general upgrade scenario, upgrade extension points, and how we test the upgrade mechanisms. Learn some of the technical challenges related to upgrading. Get information about possible upgrade and side-grade scenarios, tips on how to make the process faster, and see advanced features.
+title: 深入瞭解升AEM級過程
+description: 瞭解一般升級方案、升級擴展點以及我們如何test升級機制。 瞭解與升級相關的一些技術難題。 獲取有關可能的升級和側級方案的資訊，有關如何加快流程的提示，並查看高級功能。
 uuid: 2468da9b-178a-4fff-bf8e-57a3b0548d5c
 discoiquuid: 86781dba-fe73-46f9-a5d0-a4f04c0c1fc5
 targetaudience: target-audience advanced
 exl-id: ecbb5db9-7286-4425-b023-ecb413f4ed1c
----
-# Deep dive into AEM upgrade process{#deep-dive-into-aem-upgrade-process}
+source-git-commit: b7806491034e1afcef503311de86bb15fda51460
+workflow-type: tm+mt
+source-wordcount: '126'
+ht-degree: 3%
 
-Learn about the general upgrade scenario, upgrade extension points, and how we test the upgrade mechanisms. Learn some of the technical challenges related to upgrading. Get information about possible upgrade and side-grade scenarios, tips on how to make the process faster, and see advanced features.
+---
+
+# 深入瞭解升AEM級過程{#deep-dive-into-aem-upgrade-process}
+
+瞭解一般升級方案、升級擴展點以及我們如何test升級機制。 瞭解與升級相關的一些技術難題。 獲取有關可能的升級和側級方案的資訊，有關如何加快流程的提示，並查看高級功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19376/?quality=9)
 
-*Delivered October 14, 2015*
+*2015年10月14日交付*
 
-**Presented by:**
+**提交者：**
 
-* Bertrand Delacretaz, Principal Scientist, Adobe
-* Tomek Rekawek Software Developer, Adobe
+* Bertrand Delacretaz，首席科學家，Adobe
+* Tomek Rekawek軟體開發人員，Adobe
 
-Presenter slides - Delacretaz
+演示者幻燈片 — Delacretaz
 
-[Get File](assets/aemgems-upgrades-2015-bdelacretaz.pdf)
+[取得檔案](assets/aemgems-upgrades-2015-bdelacretaz.pdf)
 
-Presenter slides - Rekawek
+演示者幻燈片 — Rekawek
 
-[Get File](assets/aemgems-upgrades-2015-trekaewk.pdf)
+[取得檔案](assets/aemgems-upgrades-2015-trekaewk.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

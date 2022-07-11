@@ -1,23 +1,29 @@
 ---
-title: Mobile-first development with CQ made easy
-description: Learn the patterns for responsive design in CQ and how to provide a media-rich HTML5 mobile experience that performs on low-bandwidth connections. To demonstrate these patterns, we work through the transformation of a CQ site from desktop only to mobile-first. We dive into how mobile-first design principles were used, adaptive images and progressive enhancement to create it, and we discuss the pitfalls encountered along the way. The session is based on Bruce's talk during the CQ Conference in Basel, Switzerland (CQCON, 2013).
+title: 通過CQ實現移動首發
+description: 瞭解CQ中響應性設計的模式以及如何提供在低頻寬連接上執行的媒體豐富HTML5移動體驗。 為了演示這些模式，我們通過將CQ站點從僅台式機到移動首發的轉換來工作。 我們深入探討如何使用移動首選設計原則、自適應影像和漸進增強來建立移動首選設計原則，並討論在此過程中遇到的陷阱。 會議以布魯斯在瑞士巴塞爾舉行的CQ會議(CQCON, 2013)上的發言為基礎。
 uuid: 20f50539-8299-4080-818c-77201047022b
 discoiquuid: 5d79cfc0-a128-445b-9745-fd3722b550ac
 targetaudience: target-audience advanced
 exl-id: 312c3f59-8126-45c4-8403-625069811609
----
-# Mobile-First Development with CQ Made Easy{#mobile-first-development-with-cq-made-easy}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 0%
 
-Learn the patterns for responsive design in CQ and how to provide a media-rich HTML5 mobile experience that performs on low-bandwidth connections. To demonstrate these patterns, we work through the transformation of a CQ site from desktop only to mobile-first. We dive into how mobile-first design principles were used, adaptive images and progressive enhancement to create it, and we discuss the pitfalls encountered along the way. The session is based on Bruce's talk during the CQ Conference in Basel, Switzerland (CQCON, 2013). 
+---
+
+# CQ的移動首發{#mobile-first-development-with-cq-made-easy}
+
+瞭解CQ中響應性設計的模式以及如何提供在低頻寬連接上執行的媒體豐富HTML5移動體驗。 為了演示這些模式，我們通過將CQ站點從僅台式機到移動首發的轉換來工作。 我們深入探討如何使用移動首選設計原則、自適應影像和漸進增強來建立移動首選設計原則，並討論在此過程中遇到的陷阱。 會議以布魯斯在瑞士巴塞爾舉行的CQ會議(CQCON, 2013)上的發言為基礎。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19572/?quality=9)
 
-*Delivered September 18, 2013*
+*2013年9月18日交付*
 
-**Presented by:**
+**提交者：**
 
-Bruce Lefebvre, Computer Scientist, Adobe
+Bruce Lefebvre，電腦科學家，Adobe
 
-## Related links {#related-links}
+## 相關連結 {#related-links}
 
-[Presenter slides and Resources](http://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
+[演示者幻燈片和資源](http://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)

@@ -1,27 +1,33 @@
 ---
-title: CQ/AEM 5.6 troubleshooting
-description: Learn the guidelines on how to troubleshoot a CQ/AEM (5.6)-based application, along with some best practices and a few examples on how good methodology can help shorten the solution path.
+title: CQ/AEM 5.6故障排除
+description: 瞭解如何對基於CQ/AEM(5.6)的應用程式進行故障排除的指導原則，以及一些最佳做法和一些關於良好方法可以幫助縮短解決方案路徑的示例。
 uuid: 5c036b16-f1ea-4ef4-b0bd-07489f972770
 discoiquuid: 207a6ae5-b8d3-40cd-82fc-ee9fcbea17aa
 targetaudience: target-audience advanced
 exl-id: bcae8bf9-7d3d-418e-8c40-adb10fecac5b
----
-# CQ/AEM 5.6 troubleshooting{#cq-aem-troubleshooting}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '98'
+ht-degree: 3%
 
-In this session we will provide guidelines on how to troubleshoot a CQ/AEM (5.6) based application, along with some best practices and a few examples on how good methodology can help to shorten the solution path.
+---
+
+# CQ/AEM 5.6故障排除{#cq-aem-troubleshooting}
+
+在本課程中，我們將提供有關如何對基於CQ/AEM(5.6)的應用程式進行故障排除的指導，以及一些最佳做法和一些示例，說明良好的方法可以如何幫助縮短解決方案路徑。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19571/?quality=9)
 
-*Delivered October 2, 2013*
+*2013年10月2日交付*
 
-**Presented by:**
+**提交者：**
 
-Thierry Yge, Senior Support Engineer, Adobe
+蒂埃里·伊格，高級支援工程師，Adobe
 
-**Presenter slides**
+**演示者幻燈片**
 
-[Get File](assets/gems-cq-troubleshoot-ppt-2.pdf)
+[取得檔案](assets/gems-cq-troubleshoot-ppt-2.pdf)
 
-## Related links {#related-links}
+## 相關連結 {#related-links}
 
-[Documentation](http://docs.adobe.com/docs/en/cq/current/howto/troubleshoot.html)
+[文件](http://docs.adobe.com/docs/en/cq/current/howto/troubleshoot.html)

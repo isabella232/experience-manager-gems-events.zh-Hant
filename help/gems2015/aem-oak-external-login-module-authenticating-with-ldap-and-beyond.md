@@ -1,26 +1,32 @@
 ---
-title: Oak's external login module - Authenticate with LDAP and beyond
-description: See the new external login module of Apache Jackrabbit Oak. Learn the details and interplay of the login module, the synchronization handler, and the identity provider. Get a demonstration of the required configuration so LDAP users can be automatically imported into AEM for authentication purposes. Learn tips and tricks on how to debug the system if things don't work right away.
+title: Oak的外部登錄模組 — 通過LDAP及更高版本進行身份驗證
+description: 請參閱Apache Jackrabbit Oak的新外部登錄模組。 瞭解登錄模組、同步處理程式和身份提供程式的詳細資訊和相互作用。 獲取所需配置的演示，以便LDAP用戶可以自動導入到中AEM以進行驗證。 瞭解如何調試系統的技巧和技巧，如果一切都不能立即正常工作。
 uuid: 97f60619-50fd-4f6d-ad77-3afb5951846c
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
 exl-id: 76c41470-e13d-4619-800c-a7fad759e5b8
----
-# Oak's external login module - Authenticate with LDAP and beyond{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
+source-git-commit: b7806491034e1afcef503311de86bb15fda51460
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 1%
 
-See the new external login module of Apache Jackrabbit Oak. Learn the details and interplay of the login module, the synchronization handler, and the identity provider. Get a demonstration of the required configuration so LDAP users can be automatically imported into AEM for authentication purposes. Learn tips and tricks on how to debug the system if things don't work right away.
+---
+
+# Oak的外部登錄模組 — 通過LDAP及更高版本進行身份驗證{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
+
+請參閱Apache Jackrabbit Oak的新外部登錄模組。 瞭解登錄模組、同步處理程式和身份提供程式的詳細資訊和相互作用。 獲取所需配置的演示，以便LDAP用戶可以自動導入到中AEM以進行驗證。 瞭解如何調試系統的技巧和技巧，如果一切都不能立即正常工作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19382/?quality=9)
 
-*Delivered July 29, 2015*
+*2015年7月29日交付*
 
-**Presented by:**
+**提交者：**
 
-* Tobias Bocanegra, Principal Scientist, Adobe
+* 托比亞斯·博卡內格拉，首席科學家，Adobe
 
-**Presenter slides**
+**演示者幻燈片**
 
-[Get File](assets/oak-ldap-cqgems.pdf)
+[取得檔案](assets/oak-ldap-cqgems.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
