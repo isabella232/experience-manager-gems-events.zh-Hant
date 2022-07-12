@@ -3,7 +3,7 @@ user-guide-title: Adobe Experience ManagerGEMS事件
 user-guide-description: 瞭解Gems，由AEMAdobe Experience Manager專家提供的一系列深潛技術。
 breadcrumb-title: GEMAEM事件
 feature-set: Experience Manager
-source-git-commit: 8a6bbf6fb09e9e9d8ce42c6474830792cadc3250
+source-git-commit: 23dc95f3259fed6182871a13637ff80f4c62edaa
 workflow-type: tm+mt
 source-wordcount: '607'
 ht-degree: 2%
