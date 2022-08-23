@@ -1,13 +1,13 @@
 ---
 title: 集AEM成和CIF框架，構建豐富而逼真的電子商務體驗
 description: 瞭解如何使用Adobe的CIF框架來構建一致且內容豐富且身臨其境的商務體驗。
-version: Experience Manager
+version: Cloud Service
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-source-git-commit: 3ae9186bba2e82b6084dbced62129e5e693722fb
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%

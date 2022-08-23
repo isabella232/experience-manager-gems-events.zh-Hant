@@ -1,13 +1,13 @@
 ---
 title: Cloud Manager 2022
 description: 本AEMGEM網路研討會將包括以下內容的演示和演示：瀏覽去年發佈的新功能、幕後更新……（說明應介於60到160個字元之間）
-version: Experience Manager
+version: Cloud Service
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
