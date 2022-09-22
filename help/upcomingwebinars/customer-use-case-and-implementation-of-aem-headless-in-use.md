@@ -1,7 +1,7 @@
 ---
 title: 使用中AEM無頭的客戶使用案例與實作
 description: 會議公告
-version: 6.5
+version: Experience Manager
 feature: AEM Community Lens
 topic: Administration
 role: User
