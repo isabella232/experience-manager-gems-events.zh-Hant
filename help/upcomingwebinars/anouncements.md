@@ -6,9 +6,9 @@ feature: Release Information
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
@@ -19,5 +19,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 2022年8月中將提供近期會議的資訊。
+>* 2022年11月初將提供即將召開的會議的資訊。
 >* 請在 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 自動在即將舉辦的網路研討會上收到通知。

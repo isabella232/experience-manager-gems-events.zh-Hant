@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS活動
 user-guide-description: 了解AEM Gems,Adobe Experience Manager專家提供的一系列技術深入探討。
 breadcrumb-title: AEM GEM事件
 feature-set: Experience Manager
-source-git-commit: 242bef6c08cf6579add0d5754280831d062b0add
+source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '616'
 ht-degree: 2%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 2%
 
 + [總覽](overview.md)
 + 即將舉辦的網路講座{#upcomingwebinars}
-   + [使用中AEM無頭的客戶使用案例與實作](/help/upcomingwebinars/customer-use-case-and-implementation-of-aem-headless-in-use.md)
+   + [公告](/help/upcomingwebinars/anouncements.md)
 + 2022{#gems2022}
+   + [使用中AEM無頭的客戶使用案例與實作](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [正逢迎 — Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [整合AEM和CIF架構，打造豐富且沈浸式的電子商務體驗](gems2022/aem-and-cif-framework-integration.md)
    + [使用AEM Headless和App Builder更快建立網站](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service:2021年審查和2022年展望](gems2022/aemcloudservice-2021-review-and-outlook.md)
-+ 2020年{#gems2020}
++ 2020{#gems2020}
    + [AEM 6.5為世界做好準備 — 翻譯整合和最佳實踐](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
-+ 2019年{#gems2019}
++ 2019{#gems2019}
    + [Experience Manager6.5的新功能 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM RTF編輯器(RTE)深入探索](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [深入探討ContextHub中商店、模組和區段的實作詳細資訊](gems2019/contexthub-deep-dive.md)
    + [使用AEM 6.5建立無頭式全通路體驗](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
    + [AEM現代化套裝簡介](gems2019/introducing-the-aem-modernization-suite.md)
    + [運用製作發佈功能以供AEM Screens](gems2019/leveraging-author-publish-for-aem-screens.md)
-+ 2018年{#gems2018}
++ 2018{#gems2018}
    + [深入探討Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform—Experience Cloud之心](gems2018/aem-acp.md)
    + [即時且輕巧：使用AEM事件建立事件導向與Adobe I/O的整合](gems2018/aem-adobe-io.md)
