@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM課程
-source-git-commit: b537a225b4bfe26172cf0e4798a79715718c6f83
+source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 1%
 --->
 即將推出的AEM GEM網路研討會： *AEM Best Practices Analyzer for on premise and AMS environments*.
 時間：1月18日，下午5:00 CET /上午8:00 PST /晚9:30 IST資源： [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
-註冊： [網路研討會註冊](https://aem-augs.adobe.com/)
+註冊： [網路研討會註冊](https://aem-augs.adobe.com/e/mz8eae/)
 
 >[!NOTE]
 >
