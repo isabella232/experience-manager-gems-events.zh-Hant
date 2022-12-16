@@ -3,10 +3,10 @@ user-guide-title: Adobe Experience Manager GEMS活動
 user-guide-description: 了解AEM Gems,Adobe Experience Manager專家提供的一系列技術深入探討。
 breadcrumb-title: AEM GEM事件
 feature-set: Experience Manager
-source-git-commit: df64475d20fd646580794c1fdfbfa0ab27454434
+source-git-commit: 2e7c56f001b7318c7d2c64dcbec51bebfcfe1225
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 2%
+source-wordcount: '625'
+ht-degree: 3%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 2%
 
 + [概覽](overview.md)
 + 2022 {#gems2022}
+   + [AEM Best Practices Analyzer for on premise and AMS environments](gems2022/aem-best-practices-analyzer.md)
    + [即將舉辦的網路講座](/help/announcements.md)
    + [使用中AEM無頭的客戶使用案例與實作](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [正逢迎 — Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
@@ -47,7 +48,7 @@ ht-degree: 2%
    + [SPA Editor SDK深入探索 — 第1部分 — react](gems2018/spa-editor-sdk-deep-dive-react.md)
    + [SPA Editor SDK深入探討 — 第2部分 — angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [在AEM中使用OSGi R7](gems2018/using-osgi-r7-in-aem.md)
-+ 2017年 {#gems2017}
++ 2017 {#gems2017}
    + [Asset Share的主要品牌入口網站發行和新的參考實作](/help/gems2017/aem-brand-portal.md)
    + [建立AEM的健全狀態檢查](/help/gems2017/aem-building-health-checks-for-aem.md)
    + [為AEM開發OSGi套件組合和服務](/help/gems2017/aem-developing-osgi-bundles-services-for-aem.md)
@@ -63,7 +64,7 @@ ht-degree: 2%
    + [AEM 6.3為世界做好準備 — 翻譯整合和最佳實踐](/help/gems2017/aem-translation-best-practices.md)
    + [疑難排解AEM復寫](/help/gems2017/aem-troubleshooting-aem-replication.md)
    + [疑難排解Sling內容分送](/help/gems2017/aem-troubleshooting-sling.md)
-+ 2016年 {#gems2016}
++ 2016 {#gems2016}
    + [為企業配置DAM](/help/gems2016/aem-configuring-dam-for-enterprise.md)
    + [AEM Screens 簡介](/help/gems2016/aem-introduction-to-aem-screens.md)
    + [使用Adobe Experience Manager的範本編輯器管理內容](/help/gems2016/aem-managing-content-with-template-editor.md)
@@ -74,7 +75,7 @@ ht-degree: 2%
    + [用於測試Adobe Experience Manager應用程式的工具](/help/gems2016/aem-testing-tools-for-aem-apps.md)
    + [在Adobe Experience Manager部署中運用SAML](/help/gems2016/aem-utilizing-saml-in-aem-deployments.md)
    + [AEM web效能](/help/gems2016/aem-web-performance.md)
-+ 2015年 {#gems2015}
++ 2015 {#gems2015}
    + [AEM 6.1翻譯整合與最佳實務](/help/gems2015/aem-6-1-translation-integration-and-best-practices.md)
    + [使用AEM 6.1建立線上社群](/help/gems2015/aem-creating-online-communities-with-aem-6-1.md)
    + [自訂觸控式UI中的對話方塊欄位](/help/gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
@@ -88,12 +89,12 @@ ht-degree: 2%
    + [AEM技術搶先看](/help/gems2015/aem-tech-sneak-peek.md)
    + [的秘訣與技巧 [!DNL AEM Sites] 觸控式UI](/help/gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [追蹤JavaScript專案的品質量度](/help/gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
-+ 2014年 {#gems2014}
++ 2014 {#gems2014}
    + [透過DTM雲端服務，在本機AEM執行個體上部署Adobe Analytics](/help/gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [如何充分運用DAM Feature Pack](/help/gems2014/aem-dam-feature-pack.md)
    + [將受管內容提供至您的原生應用程式](/help/gems2014/aem-delivering-managed-content-to-your-native-apps.md)
    + [AEM 6.0開發人員模式](/help/gems2014/aem-developer-mode.md)
-   + [AEM Developer Tools for Eclipse](/help/gems2014/aem-developer-tools-for-eclipse.md)
+   + [Eclipse 適用的 AEM 開發人員工具](/help/gems2014/aem-developer-tools-for-eclipse.md)
    + [Dispatcher — 新功能和最佳實務](/help/gems2014/aem-dispatcher.md)
    + [有效構建可重複使用的元件](/help/gems2014/aem-efficiently-build-reusable-components.md)
    + [HTL簡介](/help/gems2014/aem-introduction-to-htl.md)
@@ -105,7 +106,7 @@ ht-degree: 2%
    + [深入探討AEM 6平台](/help/gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
    + [AEM 6平台技術概述](/help/gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [AEM 6的使用者介面自訂](/help/gems2014/aem-user-interface-customization-for-aem6.md)
-+ 2013年 {#gems2013}
++ 2013 {#gems2013}
    + [AEM 5.6平台架構](/help/gems2013/aem-architecture-of-the-aem-5-6-platform.md)
    + [CQ/AEM 5.6疑難排解](/help/gems2013/aem-cq-aem-5-6-troubleshooting.md)
    + [電子商務整合架構](/help/gems2013/aem-ecommerce-integration-framework.md)
