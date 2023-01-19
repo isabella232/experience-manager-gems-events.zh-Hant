@@ -7,7 +7,7 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
+source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Best Practices Analyzer工具可針對內部部署和AMS例項提供AEM分析和
 
 ### 演示者
 
-* Aditi Dutt Chaudhari，老產品經理，Adobe
+* Aditi Dutt Chaudhuri，資深產品經理，Adobe
 * 薩拉布·薩克塞納，工程經理，Adobe
-* Kiran Murugula，雲高級架構師，Adobe
+* 基蘭·穆魯古拉，雲高級架構師，Adobe
 * Vaibhav Varshney，電腦科學家，Adobe
 * Himani Chauhan，電腦科學家，Adobe
 
