@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM課程
-source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
+source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '311'
 ht-degree: 1%
 
 ---
@@ -43,13 +43,12 @@ ht-degree: 1%
 </table>
 
 --->
-即將推出的AEM GEM網路研討會： *AEM Best Practices Analyzer for on premise and AMS environments*.
-時間：1月18日，下午5:00 CET /上午8:00 PST /晚9:30 IST資源： [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
-註冊： [網路研討會註冊](https://aem-augs.adobe.com/e/mz8eae/)
+最近的AEM GEM線上講座： *AEM Best Practices Analyzer for on premise and AMS environments*.
+已執行：1月18日，下午5:00 CET /上午8:00 PST /晚9:30 IST資源： [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md)
 
 >[!NOTE]
 >
-> 註冊，即可收到即將舉辦的GEMS課程通知 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+> 報名參加即將舉辦的AEM GEM線上講座，收到通知，網址為 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
 
 ## 2022年重新啟動AEM GEM。
 
@@ -76,8 +75,8 @@ ht-degree: 1%
 
 ## 上一次網路研討會錄影
 
-我們上次的網路研討會是 **整合AEM和CIF架構，打造豐富且沈浸式的電子商務體驗** 於4月27日進行。
+我們上次的網路研討會是 **AEM Best Practices Analyzer for on premise and AMS environments** 並於2023年1月18日進行。
 
->[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-本網路研討會由Adobe技術架構師Kunal Gaba和Vinay Kumar主持。
+有關會議詳細資訊，包括說明和演示者資訊，請訪問 [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md).
