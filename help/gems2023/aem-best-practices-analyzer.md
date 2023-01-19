@@ -7,20 +7,16 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
+source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # AEM Best Practices Analyzer for on premise and AMS environments
 
-## 時間：2023年1月18日
-
-## 註冊
-
-欲參加本網路研討會，請通過 [AdobeAEM使用者群組](https://aem-augs.adobe.com/).
+## 此網路研討會已於2023年1月18日舉行 — 請檢視下方的錄影
 
 ## 說明
 
@@ -34,3 +30,12 @@ Best Practices Analyzer工具可針對內部部署和AMS例項提供AEM分析和
 * Kiran Murugula，雲高級架構師，Adobe
 * Vaibhav Varshney，電腦科學家，Adobe
 * Himani Chauhan，電腦科學家，Adobe
+
+## 網路研討會錄音 — 01/18/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
+
+>[!NOTE]
+>
+>* 有關Experience League上特定的會話社區交互，請訪問以下內容 [內容線程](https://bit.ly/3Z6AyM1)
+>* 若要接收有關網路研討會的自動通知，請在 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
