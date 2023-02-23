@@ -10,7 +10,7 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM課程
-source-git-commit: c6540288afd5bd5e2c2cad7c5803ecbf1de65542
+source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 2%
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 <img alt="數位體驗" src="./assets/ADX_Gems.png"/>
 
-## 即將推出的AEM GEM活動！
+## 上一次AEM GEM活動！
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,8 +43,8 @@ ht-degree: 2%
 </table>
 
 --->
-最新AEM GEM線上講座，內容為 *以快速開發環境加速Adobe Experience ManagerCloud Service開發* 已於2023年2月22日進行。
-您可以在以下位置找到錄制內容： [AEM Rapid Development Environments網路研討會](/help/gems2023/Rapid-Development-Environments.md)
+最新AEM GEM線上講座，內容為 **以快速開發環境加速Adobe Experience ManagerCloud Service開發** 進行 *2023年2月22日*.
+此 **記錄** 可在此處找到： [AEM Rapid Development Environments網路研討會](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
