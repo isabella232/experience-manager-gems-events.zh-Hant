@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
+source-git-commit: c95df8aa847b7926e7cf464431637c1bb5bb12a6
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -33,7 +33,7 @@ RDE可讓開發人員快速部署和審核變更，將測試經證實可在本�
 * 卡爾·保爾斯，高級電腦科學家
 * David Bosschaert，高級軟體工程師
 
-## 網路研討會錄音 — 01/18/2023
+## 網路研討會錄音 — 02/22/2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
