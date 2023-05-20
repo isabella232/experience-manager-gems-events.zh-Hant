@@ -1,6 +1,6 @@
 ---
 title: OAuth伺服器功AEM能 — 支援聯合併釋放您的REST API!
-description: '介紹OAuth 2框架和Granite OAuth伺服器功能。 Adobe Experience Manager(AEM)在OSGi環境中運行，並基於REST原則。 '
+description: 介紹OAuth 2框架和Granite OAuth伺服器功能。 Adobe Experience Manager(AEM)在OSGi環境中運行，並基於REST原則。
 uuid: 5fa01808-033f-456d-a024-c28f60e1e4b7
 discoiquuid: b53df422-3625-40f4-b7fe-9945f2ec71f6
 targetaudience: target-audience advanced

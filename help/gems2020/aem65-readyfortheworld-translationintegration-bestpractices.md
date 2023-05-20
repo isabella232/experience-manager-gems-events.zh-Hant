@@ -4,13 +4,13 @@ description: 瞭解管理多AEM語言網站的當前翻譯功能和最佳做法�
 uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: d920fc11-a328-4357-aca8-63abed5ce63c
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 3%
 
 ---
-
 
 # AEM6.5為世界做好準備 — 翻譯整合和最佳實踐{#aem-ready-for-the-world-translation-integration-best-practices}
 

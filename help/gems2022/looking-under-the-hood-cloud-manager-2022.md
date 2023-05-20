@@ -1,34 +1,34 @@
 ---
 title: Cloud Manager 2022
-description: 此AEM GEM網路研討會將包含下列內容的簡報和示範：探索去年推出的新功能、幕後更新……（說明應介於60到160個字元之間）
+description: 本AEMGEM網路研討會將包括以下內容的演示和演示：瀏覽去年發佈的新功能、幕後更新……（說明應介於60到160個字元之間）
 version: Cloud Service
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+exl-id: 5f3e2e14-57ab-4bf5-a8c7-9bf431836ab2
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
+# 正在查找引擎蓋 — Cloud Manager 2022
 
-# 正逢迎 — Cloud Manager 2022
+*本網路研討會已於UTC 6月15日至下午3點進行。 請查看下面的錄制。*
 
-*此網路研討會已於UTC 6月15日至下午3點舉行。 請查看下面的錄音。*
+會話描述：瞭解去年發佈的新功能、幕後開發的最新情況，並展望2022年剩餘時間。 有關Cloud Manager在引擎蓋下如何工作以及客戶如何充分利用它的詳細資訊。  
 
-會話描述：探索去年發行的新功能、幕後開發的最新資訊，並展望2022年剩餘時間。 有關Cloud Manager在外殼下如何運作，以及客戶如何最有效地利用它的詳細資訊。  
+該內容既適用於Adobe Experience Manager as a Cloud Service，也適用於Experience ManagerManaged Services，重點是Cloud Service。 它適用於技術和非技術與會者。 事先接觸Cloud Manager有助於瞭解上下文，但不必。
 
-內容同時適用於Adobe Experience Manager as a Cloud Service和Experience ManagerManaged Services，並著重於Cloud Service。 適合技術與非技術人員使用。 先前接觸Cloud Manager有助於了解相關內容，但並非必要。
-
-**網路研討會錄音**
+**網路研討會錄制**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
->* 有關Experience League上特定的會話社區交互，請訪問以下內容 [內容線程](https://adobe.ly/3O0rdzd)
->* 若要接收有關網路研討會的自動通知，請在 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 有關Experience League的特定社區互動，請訪問 [上下文線程](https://adobe.ly/3O0rdzd)
+>* 要接收有關網路研討會的自動通知，請在 [AdobeAEM的用戶組](https://aem-augs.adobe.com/)。
 

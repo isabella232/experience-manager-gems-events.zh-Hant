@@ -1,41 +1,43 @@
 ---
-title: AEM Best Practices Analyzer for on premise and AMS environments
-description: Best Practices Analyzer工具可針對AEM內部部署和AMS例項提供分析和報告功能。 它會指出未遵循建議最佳實務的領域，同時提供如何採取行動以補救潛在問題的指引，借此評估您目前的AEM實作。
+title: 針AEM對本地和AMS環境的最佳做法分析器
+description: 最佳做法分析器是一種工具，可提供有關本地實例和AMS實例AEM的分析和報告功能。 它通過指明不遵循建議AEM的最佳做法的領域，同時就如何採取行動糾正潛在問題提供指導，來評估您當前的實施情況。
 version: 6.5
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
+exl-id: 3b1aece7-72a0-4948-80de-b4d87479aa60
+source-git-commit: b50c3aff17162699522ed353659ad3ea6f57faf6
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
-# AEM Best Practices Analyzer for on premise and AMS environments
+# 針AEM對本地和AMS環境的最佳做法分析器
 
-## 此網路研討會已於2023年1月18日舉行 — 請檢視下方的錄影
+## 本網路研討會已於2023年1月18日發佈 — 請查看以下記錄
 
 ## 說明
 
-Best Practices Analyzer工具可針對內部部署和AMS例項提供AEM分析和報告功能。 它會指出未遵循建議最佳實務的領域，同時提供如何採取行動以補救潛在問題的指引，借此評估您目前的AEM實作。 動機很簡單；在AEM環境中只發現並解決1個誤用問題，有可能改善用戶體驗、降低技術負擔，進而降低總擁有成本(TCO)。 因此，為什麼不花時間去看是否存在改善機會。
-請注意，AEM Best Practices Analyzer不適用於AEMas a Cloud Service環境。
+最佳做法分析器是一種工具，可提供有關本地和AMS實例AEM的分析和報告功能。 它通過指明不遵循建議AEM的最佳做法的領域，同時就如何採取行動糾正潛在問題提供指導，來評估您當前的實施情況。 動機很簡單；在您的環境中只發現和解決1AEM個誤用問題，可以改善用戶體驗、減少技術負擔，進而降低您的總擁有成本(TCO)。 那麼，為什麼不花點時間看看是否存在改善機會。
+請注意，AEM最佳做法分析器不適用於AEMas a Cloud Service環境。
 
 ### 演示者
 
-* Aditi Dutt Chaudhuri，資深產品經理，Adobe
-* 薩拉布·薩克塞納，工程經理，Adobe
-* 基蘭·穆魯古拉，雲高級架構師，Adobe
+* Aditi Dutt Chaudhuri ，高級產品經理，Adobe
+* Saurabh Saxena，工程經理，Adobe
+* 基蘭·穆魯古拉，高級雲架構師，Adobe
 * Vaibhav Varshney，電腦科學家，Adobe
 * Himani Chauhan，電腦科學家，Adobe
 
-## 網路研討會錄音 — 01/18/2023
+## 網路研討會錄制 — 01/18/2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
 >[!NOTE]
 >
->* 有關Experience League上特定的會話社區交互，請訪問以下內容 [內容線程](https://bit.ly/3Z6AyM1)
->* 若要接收有關網路研討會的自動通知，請在 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 有關Experience League的特定社區互動，請訪問 [上下文線程](https://bit.ly/3Z6AyM1)
+>* 要接收有關網路研討會的自動通知，請在 [AdobeAEM的用戶組](https://aem-augs.adobe.com/)。
+

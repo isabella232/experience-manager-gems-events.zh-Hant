@@ -8,13 +8,13 @@ role: User
 level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
-source-git-commit: 92f46eab76b1a89216039d830b1683d259d3db44
+exl-id: 986acb63-8e16-4801-993a-4b5ac718ac3d
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Manager as a Cloud Service:《2021年回顧和2022年展望》
 

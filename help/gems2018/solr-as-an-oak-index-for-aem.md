@@ -1,17 +1,17 @@
 ---
 title: Solr作為Oak指數AEM
-description: '預設AEM情況下，Oak Lucene索引提供全文搜索功能。 但是，AEM也可以通過Oak Solr索引將索引和搜索卸載到Solr伺服器/群集。 在此Gem會話中，我們深入探討一些實際的現實場景，在這些場景中，使用Solr作為Oak索引AEM在效能和索引/搜索功能方面是有意義的。 '
+description: 預設AEM情況下，Oak Lucene索引提供全文搜索功能。 但是，AEM也可以通過Oak Solr索引將索引和搜索卸載到Solr伺服器/群集。 在此Gem會話中，我們深入探討一些實際的現實場景，在這些場景中，使用Solr作為Oak索引AEM在效能和索引/搜索功能方面是有意義的。
 uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 59a2da8f-a3c3-44e5-8775-59cac1b7bb8e
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 1%
 
 ---
-
 
 # Solr作為Oak指數AEM{#solr-as-an-oak-index-for-aem}
 

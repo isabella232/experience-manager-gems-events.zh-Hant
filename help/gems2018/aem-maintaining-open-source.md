@@ -4,13 +4,13 @@ description: 維護開源項目可能很困難。 成功的開源項目可能會
 uuid: 94e91950-d915-4659-985a-f496e47e8963
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 5ffc3b2b-ca26-4627-8eab-00ed1a2b5b13
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 1%
 
 ---
-
 
 # 在保持清醒的同時維護開放源{#maintaining-open-source-while-maintaining-your-sanity}
 

@@ -4,13 +4,13 @@ description: 「艱難的一天」是一種測試工具，它模擬了最壞情�
 uuid: 6bf40482-6152-421b-bdfe-9a50176b98b7
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 7fff6003-ff8f-46df-9184-492ec06ff34e
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
 
 ---
-
 
 # Toughday2 — 全新且改進的壓力測試和基準測試工具{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
 

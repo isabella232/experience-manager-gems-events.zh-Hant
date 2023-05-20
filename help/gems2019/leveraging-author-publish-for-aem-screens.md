@@ -4,13 +4,13 @@ description: 獲取AEM Screens的完整製作設定，並瞭解將內容發佈�
 uuid: 45a68d1d-824e-4922-b440-dd53131d2bdc
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: b761fa06-acf4-4a57-b8de-6741326c3109
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 2%
 
 ---
-
 
 # 利用作者發佈為AEM Screens{#leveraging-author-publish-for-aem-screens}
 

@@ -4,13 +4,13 @@ description: 縮放AEM作者主要是擴展Oak，但是最好的方法是什麼�
 uuid: 5dab0a6c-2b3c-40fc-866a-b630215d1cd8
 discoiquuid: 0b0d99a4-60be-4e25-9169-5a9717fbcaa2
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: 6dbeedd9-854d-4af4-a193-1a8b2520daf0
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
 
 ---
-
 
 # AEM作者可擴充性實驗{#experiments-in-aem-author-scalability}
 

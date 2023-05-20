@@ -4,13 +4,13 @@ description: Experience Manager為設計、預測和提供跨Web、移動和客�
 uuid: 6cb2db2b-f465-412f-8039-e0281454b264
 discoiquuid: 98f017e8-42e3-436f-b7e4-a60e57042617
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 792ad05c-aa03-4988-8079-457bb9ac4b54
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 1%
 
 ---
-
 
 # 深潛Adobe Experience Manager6.4{#deep-dive-into-adobe-experience-manager}
 

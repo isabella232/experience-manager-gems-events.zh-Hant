@@ -5,13 +5,13 @@ uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: 8d9d0330-ec29-4458-876d-7e89a89827f3
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
 
 ---
-
 
 # Adobe Developer(IO)事件 — 分析觸發器{#adobe-i-o-events-analytics-triggers}
 

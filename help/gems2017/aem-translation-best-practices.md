@@ -1,16 +1,16 @@
 ---
 title: 6AEM.3為世界做好準備 — 翻譯整合和最佳實踐
-description: '在本次會議中，我們將介紹AEM6.3種管理多語言網站的功能和最佳做法。 您將學習如何在中構建全球網站AEM，如何使用語言副本、即時副本和MSM，以及如何整合翻譯服務提供商以成功完成翻譯項目。 '
+description: 在本次會議中，我們將介紹AEM6.3種管理多語言網站的功能和最佳做法。 您將學習如何在中構建全球網站AEM，如何使用語言副本、即時副本和MSM，以及如何整合翻譯服務提供商以成功完成翻譯項目。
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 1a4aaf0e-45f7-4b22-ac32-aee1be111553
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 1%
 
 ---
-
 
 # 6AEM.3為世界做好準備 — 翻譯整合和最佳實踐{#aem-ready-for-the-world-translation-integration-best-practices}
 

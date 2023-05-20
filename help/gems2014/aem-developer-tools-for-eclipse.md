@@ -1,5 +1,5 @@
 ---
-title: 用AEM於Eclipse的開發人員工具
+title: Eclipse 適用的 AEM 開發人員工具
 description: Developer AEM Tools for Eclipse是一組Eclipse插件，旨在使應用程式開發更方AEM便、更直接，並與最佳做法保持一致。 基於兩個新項目面 — 一個用於OSGi捆綁包，一個用於JCR內容 — 它允許Eclipse和實例之間進行無縫、迭代的同AEM步。 它附帶一個內容瀏覽器，允許顯示和編輯FileVault格式的內容。 最後，它包含一個基於Maven的示例、多模組項目，可用於引導項目設定。
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
@@ -8,11 +8,11 @@ exl-id: 3d8db8a1-d2a7-48ed-bd56-9430f17298e1
 source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 用AEM於Eclipse的開發人員工具{#aem-developer-tools-for-eclipse}
+# Eclipse 適用的 AEM 開發人員工具{#aem-developer-tools-for-eclipse}
 
 Developer AEM Tools for Eclipse是一組Eclipse插件，旨在使應用程式開發更方AEM便、更直接，並與最佳做法保持一致。 基於兩個新項目面 — 一個用於OSGi捆綁包，一個用於JCR內容 — 它允許Eclipse和實例之間進行無縫、迭代的同AEM步。 它附帶一個內容瀏覽器，允許顯示和編輯FileVault格式的內容。 最後，它包含一個基於Maven的示例、多模組項目，可用於引導項目設定。
 

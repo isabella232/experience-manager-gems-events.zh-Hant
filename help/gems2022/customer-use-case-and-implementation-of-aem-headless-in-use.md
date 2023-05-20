@@ -1,48 +1,49 @@
 ---
-title: 使用中AEM無頭的客戶使用案例與實作
-description: 會議公告
+title: 客戶使用案例及無頭AEM在用實施
+description: 會話公告
 version: 6.5
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
+exl-id: 05c19b41-69d5-4400-85be-38e5a55ef2c1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
-# AEM GEM功能 — 使用中AEM無頭的客戶使用案例與實作
+# AEMGEM功能 — 客戶使用案例和使用中無AEM頭實施
 
-*此網路研討會已於&#x200B;**10月12日，星期三 — 下午3:00**. 錄音在下面。*
+*本網路研討會是在&#x200B;**世界協調時10月12日，星期三 — 下午3點**。 以下是錄音。*
 
-這次特別的AEM GEM會議有兩位演講者，他們以客戶身份操作AEM。 該會話將分為兩半，如下所示：
+這次AEMGEM特別會議有兩個作為客戶運AEM作的揚聲器。 會話將分為以下兩個半部：
 
-## 第1部分：AEM as a headless CMS何處/何時/為何？
+## 第1部分：作AEM為無頭CMS的位置/時間/原因？
 
 演示者：Vengadesh Shanmugavelu — 卡達航空技術設計師
 
 **會話描述：**
-我們可透過許多方式透過AEM實作無頭式CMS。
-在本課程中，我們將介紹以下內容：
+我們可以通過多種方式實現無頭CMSAEM。
+在本屆會議上，我們將介紹以下內容：
 
-* 透過匯出工具/servlet提供內容服務
-* 透過資產API的內容片段（示範）
-* 透過graphql的內容片段（示範）
-* 使用內容片段及其方法的一些即時使用案例
-* SPA編輯器學習（關於選擇時機的一些解決方案方法）（示範）
+* 通過導出器/Servlet提供的內容服務
+* 通過資產API（演示）的內容片段
+* 通過graphql（演示）的內容片段
+* 關於使用內容片段的一些即時使用案例及其方法
+* 編SPA輯器學習（選擇時間的一些解決方案）（演示）
 
-## 第2部分：透過GraphQL API和內容片段提供無周邊內容
+## 第二部分：通過GraphQLAPI和內容片段提供無頭內容
 
-演示者：Debal Das — 高級系統分析員，IBM
+演示者：Debal Das — 高級系統分析師，IBM
 
 **會話描述：**
-在此課程中，我們將說明內容片段的GraphQL耗用量（除了現有的JSON API）。
+在此會話中，我們將介紹GraphQL對內容片段的消耗（除現有的JSON API外）。
 
-從概念上講，GraphQL與SQL資料庫查詢類似，但API用於查詢而非資料庫是例外。
+從概念上講，GraphQL與SQL資料庫查詢類似，但API用於查詢而不是資料庫除外。
 
-這消除了API提供許多端點的需求，這些端點為不同的客戶提供各種資料量或組，並使不同的客戶端能夠根據自己的需求查詢API。
+這消除了對API的要求，即提供為不同客戶提供各種卷或資料組的多個端點，並使各種客戶端能夠根據自己的需要查詢API。
 
 **會話錄制**
 
@@ -50,5 +51,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 有關Experience League上特定的會話社區交互，請訪問以下內容 [內容線程](https://adobe.ly/3r6P4nr)
->* 若要接收有關網路研討會的自動通知，請在 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 有關Experience League的特定社區互動，請訪問 [上下文線程](https://adobe.ly/3r6P4nr)
+>* 要接收有關網路研討會的自動通知，請在 [AdobeAEM的用戶組](https://aem-augs.adobe.com/)。
+

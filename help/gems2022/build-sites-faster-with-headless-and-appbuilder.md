@@ -8,13 +8,13 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 92f46eab76b1a89216039d830b1683d259d3db44
+exl-id: c1d5f9e2-58b0-4bc8-be70-a763ea7df644
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
-
 
 # 使用Headless和App AEMBuilder更快地構建網站
 
@@ -31,3 +31,4 @@ ht-degree: 0%
 >* [對應的Adobe Experience Manager用戶組事件頁](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
 >* [相應上下文線程](https://adobe.ly/3LkSWdm)
 >* 請在 [AdobeAEM的用戶組](https://aem-augs.adobe.com/) 獲取有關即將進行的網路研討會的通知。
+

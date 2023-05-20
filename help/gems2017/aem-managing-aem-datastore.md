@@ -1,16 +1,16 @@
 ---
 title: 管理AEMDataStore
-description: '該會話概述了DataStore(DS)，並詳細介紹了中各種受支援的拓撲的DS配置和維AEM護。 此外，還介紹了DS GC的故障排除技巧。 '
+description: 該會話概述了DataStore(DS)，並詳細介紹了中各種受支援的拓撲的DS配置和維AEM護。 此外，還介紹了DS GC的故障排除技巧。
 uuid: 65aabe5c-2f33-4caf-a01c-803e2c71f49d
 discoiquuid: 2d92a9bf-4a98-46d9-8b4c-583654e5bac0
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: c580de20-77a1-434e-b68e-7f8be47a9385
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 2%
 
 ---
-
 
 # 管理AEMDataStore{#managing-aem-datastore}
 

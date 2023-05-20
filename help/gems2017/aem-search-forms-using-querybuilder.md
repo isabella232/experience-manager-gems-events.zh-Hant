@@ -4,13 +4,13 @@ description: 此會話說明了查詢生成器背後的原理，與JCR堆棧上�
 uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 7d52697a-9c24-4b3d-979f-acc540e6cf59
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
 
 ---
-
 
 # 使用查詢生成器輕鬆搜索表AEM單{#search-forms-made-easy-with-the-aem-querybuilder}
 
@@ -42,4 +42,3 @@ ht-degree: 1%
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
-

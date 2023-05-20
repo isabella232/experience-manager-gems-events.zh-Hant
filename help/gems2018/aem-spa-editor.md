@@ -1,18 +1,18 @@
 ---
 title: AEM SPA Editor
-description: '隨著單頁應用程式(SPA)使整個訪問者體驗更具互動性，它們正在獲得廣泛的使用，即使是以內容為中心的體驗。 請加入我們，在本簡介中瞭解SPA有關編輯的更多資訊。 '
+description: 隨著單頁應用程式(SPA)使整個訪問者體驗更具互動性，它們正在獲得廣泛的使用，即使是以內容為中心的體驗。 請加入我們，在本簡介中瞭解SPA有關編輯的更多資訊。
 uuid: d61f7398-c3e8-475a-a3c3-f71a8106c8f4
 discoiquuid: 8c6673c0-635e-453d-abf0-5d0db313329a
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 300afc36-5eb8-40d1-b847-875df78db08f
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 4%
 
 ---
 
-
-# 編AEM輯SPA器{#aem-spa-editor}
+# AEM SPA Editor{#aem-spa-editor}
 
 隨著單頁應用程式(SPA)使整個訪問者體驗更具互動性，它們正在獲得廣泛的使用，即使是以內容為中心的體驗。 到目前為止，Web體驗管理系統在上下文中編輯內容和佈局是非常繁瑣的SPA，因為其中斷的體系結構只佔用伺服器的JSON資料，並且將呈現給客戶端等所有其他責任委派給客戶端。 這迫使營銷商使用只有頭的CMS，並為任何佈局更改啟動開發週期，從而放鬆對任何佈局形式的控制，並影響更改的速度。 編SPA輯器將頁面編輯器的易用功AEM能帶回SPAJavaScript框架(如React或Angular)。 它允許前端開發人員像SPA過去那樣開發，同時讓非技術作者就地編輯內容。 請與我們一起瞭解本SPA簡介的編輯。
 

@@ -1,6 +1,6 @@
 ---
 title: SharePoint連接器 — 設定和配置
-description: '獲取有關如何使用CQ/AEM(5.6.0)設定和配置共用連接器的逐步指南，以及幾個示例的演示。 Adobe的SharePoint連接器通過標準JCR介面公開內容，使應用程式能夠以標準化方式訪問駐留在專有儲存庫中的內容，從而簡化了對內容的訪問。 '
+description: 獲取有關如何使用CQ/AEM(5.6.0)設定和配置共用連接器的逐步指南，以及幾個示例的演示。 Adobe的SharePoint連接器通過標準JCR介面公開內容，使應用程式能夠以標準化方式訪問駐留在專有儲存庫中的內容，從而簡化了對內容的訪問。
 uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced

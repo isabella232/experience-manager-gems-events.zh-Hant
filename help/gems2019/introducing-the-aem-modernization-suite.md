@@ -4,13 +4,13 @@ description: 瞭解如何將靜態模板頁轉換為可編輯模板。 瞭解如
 uuid: f1b17a0f-055f-48f4-a0be-e50318b3349d
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 3564fb7b-f11f-45c8-9fc2-763ad85854a9
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 1%
 
 ---
-
 
 # 介紹現代化AEM套件{#introducing-the-aem-modernization-suite}
 

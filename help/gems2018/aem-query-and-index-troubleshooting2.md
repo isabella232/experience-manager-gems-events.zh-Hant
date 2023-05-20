@@ -1,16 +1,16 @@
 ---
 title: 查AEM詢和索引故障排除
-description: '這是去年會話索引和JCR查詢(AEM下面的連結)的繼續。 它將涵蓋相同的主題，但包含全新內容，與較舊的演示文稿幾乎沒有重疊。 還包括6.4AEM的新功能。 '
+description: 這是去年會話索引和JCR查詢(AEM下面的連結)的繼續。 它將涵蓋相同的主題，但包含全新內容，與較舊的演示文稿幾乎沒有重疊。 還包括6.4AEM的新功能。
 uuid: da172124-bef7-45b8-91f4-86fc37d03f5d
 discoiquuid: 7d95cb2b-9fc4-4d0e-8a70-a751f4487f77
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 811329e02cc9b2b961599d5751d4dcc6886eb3d7
+exl-id: 6bd4194a-0e72-497e-8a80-20c60f1c74b9
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 2%
 
 ---
-
 
 # 查AEM詢和索引故障排除{#aem-query-and-index-troubleshooting}
 

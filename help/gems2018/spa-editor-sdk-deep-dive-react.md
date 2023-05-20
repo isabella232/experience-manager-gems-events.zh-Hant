@@ -1,16 +1,16 @@
 ---
-title: '編SPA輯器SDK深入查看 — 第1部分 — 反應 '
+title: 編SPA輯器SDK深入查看 — 第1部分 — 反應
 description: 深入瞭解可使用頁面編輯器創作的單頁應用程式AEM的開發。
 uuid: 535ebce7-bbd9-4e84-a7a8-52254d01550e
 discoiquuid: 4aac1fad-0b99-461b-8f09-6d775de5bbec
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: ae85fc7d-73b0-43ba-a7b7-d21ebc6d33ef
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
 
 ---
-
 
 # 編SPA輯器SDK深入查看 — 第1部分 — 反應 {#spa-editor-sdk-deep-dive-part-react}
 

@@ -4,13 +4,13 @@ description: 深入瞭解可使用頁面編輯器創作的單頁應用程式AEM�
 uuid: 4ac2d85b-63f9-4d74-a8c0-7857be6b3d84
 discoiquuid: 3b050b88-e1c3-4a42-81ce-bd1b321a01e7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 89d370b7-7398-4c94-b7e9-85e70a1f169b
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 5%
 
 ---
-
 
 # 編SPA輯器SDK深入查看 — 第2部分 — Angular{#spa-editor-sdk-deep-dive-part-angular}
 

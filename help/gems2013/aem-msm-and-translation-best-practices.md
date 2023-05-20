@@ -8,7 +8,7 @@ exl-id: 7e691407-b1be-440c-a04b-290dadef113f
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -31,5 +31,5 @@ Christine Duran ，首席翻譯技術組經理，Adobe
 而是閱讀有關Adobe Experience Manager文檔中最佳做法的更多資訊：
 
 * [多站點管理最佳做法](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
-* [翻譯最佳做法](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
+* [翻譯最佳實務](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
 * [返回「概述」](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

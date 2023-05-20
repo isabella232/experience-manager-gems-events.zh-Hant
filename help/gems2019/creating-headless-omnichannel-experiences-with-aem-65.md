@@ -4,13 +4,13 @@ description: 您需要創造出下一級的流暢體驗，以便在不斷發展�
 uuid: 126e5518-b8c0-41e7-9b99-78d9d80b18b0
 discoiquuid: 77929dd9-2a0b-45e2-bffb-7a6e6ac1d9bd
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: e3fcc11f-e68c-459a-9452-3ca1836a1ffb
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
 
 ---
-
 
 # 用6.5創造無頭人AEM體驗{#creating-headless-omnichannel-experiences-with-aem}
 

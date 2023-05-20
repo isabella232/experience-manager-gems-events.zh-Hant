@@ -4,13 +4,13 @@ description: 與我們一起瞭解部署維護版AEM本（即Service Packs和Cum
 uuid: ff4d7884-c3df-44a9-9863-78a79fa58fad
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: 10da88cc-1612-4996-9b78-f453dbec0efe
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 1%
 
 ---
-
 
 # AEM維護 — 部署維護版本的AEM最佳做法{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
 

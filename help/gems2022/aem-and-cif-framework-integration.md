@@ -1,57 +1,57 @@
 ---
-title: 整合AEM和CIF架構，打造豐富且沈浸式的電子商務體驗
-description: 了解如何使用Adobe的CIF架構，打造一致且內容豐富、身臨其境的商務體驗。
+title: 集AEM成和CIF框架，構建豐富而逼真的電子商務體驗
+description: 瞭解如何使用Adobe的CIF框架來構建一致且內容豐富且身臨其境的商務體驗。
 version: Cloud Service
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+exl-id: 49bed9eb-8995-4821-b919-b7ca0e0c44d1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
+# 集AEM成和CIF框架，構建豐富而逼真的電子商務體驗
 
-# 整合AEM和CIF架構，打造豐富且沈浸式的電子商務體驗
-
-此AEM GEM線上講座包含簡報和示範，協助您了解如何使用Adobe的CIF架構，打造一致且內容豐富且身臨其境的商務體驗。 Experience Manager與Adobe Commerce可透過Commerce Integration Framework(CIF)順暢整合。 CIF可讓AEM使用Adobe Commerce的GraphQL API直接存取及與商務執行個體通訊（請檢視下方的高階議程）。
+本AEMGEM網路研討會包括演示和演示，幫助您瞭解如何使用Adobe的CIF框架來構建一致且內容豐富且身臨其境的商務體驗。 該Experience Manager和Adobe Commerce利用商業整合框架(CIF)進行無縫整合。 CIF使AEM用Adobe Commerce的GraphQLAPI（查看下面的高級議程）直接訪問和與商業實例通信。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
-本網路研討會於2022年4月27日舉行，由Adobe技術架構師Kunal Gaba和Vinay Kumar主持。
+本網路研討會於2022年4月27日舉行，由Adobe技術架構師庫納爾·加巴和維奈·庫馬爾主持。
 
 >[!MORELIKETHIS]
 >
->* [「對應的Adobe Experience Manager使用者群組事件」頁面](https://adobe.ly/3O0uXl5/)
->* [對應的上下文線程](https://adobe.ly/3jorz5r)
->* 請在 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 獲得即將舉辦網路研討會的通知。
+>* [對應的Adobe Experience Manager用戶組事件頁](https://adobe.ly/3O0uXl5/)
+>* [相應上下文線程](https://adobe.ly/3jorz5r)
+>* 請在 [AdobeAEM的用戶組](https://aem-augs.adobe.com/) 獲取有關即將進行的網路研討會的通知。
 
 
 **高級別議程：**
 
-* 什麼是CIF？為何使用CIF?
+* 什麼是CIF，為什麼使用CIF?
 
-* CIF整合類型及如何搭配AEM使用CIF
+* CIF整合類型及CIF與CIF的應AEM用
 
-* CIF元件程式庫
+* CIF元件庫
 
    * AEM CIF核心元件
 
-   * PWAstudio庫react元件
+   * PWAStudio庫反應元件
 
-* 多品牌和多商店設定的考量事項
+* 多品牌和多商店設定的考慮事項
 
-   * AEM中的雲端服務設定
+   * 中的雲服務配AEM置
 
    * FE代碼組織和部署
 
-   * 內容感知設定
+   * 上下文感知配置
 
-   * 多網站管理
+   * 多站點管理
 
-* 最佳實務與學習
+* 最佳做法和學習
 
 * 示範

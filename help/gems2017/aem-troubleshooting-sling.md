@@ -1,17 +1,17 @@
 ---
 title: 疑難解答Sling內容分發
-description: 'Sling內容分發(SCD)可用於正向、AEM反向內容分發和同步。 在本會話中，我們將提供有關如何排除和處理SCD常見問題的詳細資訊。 '
+description: Sling內容分發(SCD)可用於正向、AEM反向內容分發和同步。 在本會話中，我們將提供有關如何排除和處理SCD常見問題的詳細資訊。
 uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: 930b3d95-0745-4396-88c1-06451341f08c
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 5%
 
 ---
-
 
 # 疑難解答Sling內容分發{#troubleshooting-sling-content-distribution}
 

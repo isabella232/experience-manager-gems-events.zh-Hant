@@ -5,13 +5,13 @@ uuid: 23acfe70-e441-414b-905d-376a4d98f0fa
 topic-tags: smart-tags
 discoiquuid: c0b3b1f6-5765-44f7-ba12-e17267e1c89e
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 4bfcc50e-c0a7-455c-ac45-2fbbfafa0265
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 4%
 
 ---
-
 
 # 機器學習AEM:增強的智慧標籤、智慧佈局等{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
 

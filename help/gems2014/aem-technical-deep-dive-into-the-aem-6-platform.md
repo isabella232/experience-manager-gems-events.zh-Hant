@@ -8,7 +8,7 @@ exl-id: eb04fd9f-acc5-4ef2-afee-806d00b60326
 source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 AEM 6附帶了新的儲存庫後端，旨在提高效能和可擴充性。 本會議將深入探討新的儲存庫體系結構，並介紹開發人員和運營團隊的主要差異和改進。 所涵蓋的主題包括：
 
-* 內容遷移
+* 內容移轉
 * 向後相容性
 * 關鍵部署方案
 * 自定義搜索索引

@@ -4,13 +4,13 @@ description: 本演示介紹了高級ContextHub體系結構，對可用的通用
 uuid: f8789846-ff15-4cd5-9102-3b7394da5958
 discoiquuid: e714ec87-355c-4373-b547-98d544d73c9e
 targetaudience: target-audience advanced
-source-git-commit: 811329e02cc9b2b961599d5751d4dcc6886eb3d7
+exl-id: 3c7c5274-64d6-48c0-90fb-1c618dd09e13
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 2%
 
 ---
-
 
 # 6.AEM4中ContextHub簡介{#introduction-to-contexthub-in-aem}
 

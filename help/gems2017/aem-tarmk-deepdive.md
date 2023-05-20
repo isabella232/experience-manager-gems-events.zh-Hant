@@ -1,16 +1,16 @@
 ---
 title: 進入焦油坑，一個TarMK深潛
-description: '有沒有想過TarMK的tar檔案裡有什麼？ 什麼是段，什麼是記錄？ 分段儲存垃圾收集的工作原理以及原因（或為什麼不）? 本次會議回答了這些問題以及許多問題。 '
+description: 有沒有想過TarMK的tar檔案裡有什麼？ 什麼是段，什麼是記錄？ 分段儲存垃圾收集的工作原理以及原因（或為什麼不）? 本次會議回答了這些問題以及許多問題。
 uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 7ee324b8-f4b9-490d-b13d-b73d72385980
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
 
 ---
-
 
 # 進入焦油坑：TarMK深潛{#into-the-tar-pit-a-tarmk-deep-dive}
 
