@@ -1,6 +1,6 @@
 ---
-title: 5.AEM6平台體系結構
-description: 瞭解應用平台體系結構的AEM演化。 自《公報1》首次發佈以來，直到最近AEM5.6號發佈，該應用經歷了幾次變化，成為如今通用且可擴展的應用平台。
+title: AEM 5.6平台的架構
+description: 瞭解AEM應用程式平台架構的演化。 自第一版公報1以來，直至最近推出AEM 5.6，應用程式經過數次變更，成為現今通用且可擴充的應用程式平台。
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
@@ -12,23 +12,23 @@ ht-degree: 4%
 
 ---
 
-# 5.AEM6平台體系結構{#architecture-of-the-aem-platform}
+# AEM 5.6平台的架構{#architecture-of-the-aem-platform}
 
-瞭解應用平台體系結構AEM的演化。 自《公報1》首次發佈至最近5.6AEM版發佈以來，該應用程式經歷了幾次巨大變化，成為如今通用且可擴展的應用平台。
+瞭解AEM應用程式平台架構的演化。 自第一版公報1至最近推出AEM 5.6以來，應用程式經歷了數次重大變更，成為現在通用且可擴充的應用程式平台。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*2013年5月8日交付*
+*2013年5月8日送達*
 
-**提交者：**
+**展示者：**
 
-Felix Meschberger，首席科學家，Adobe
+Felix Meschberger，Adobe首席科學家
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/20130508-aem56-architecture.pdf)
 
-**會議問題和回答**
+**工作階段問答**
 
 [取得檔案](assets/questionsanswers-aem56-architecture.pdf)
 

@@ -1,6 +1,6 @@
 ---
 title: 用於測試Adobe Experience Manager應用程式的工具
-description: 從單元測試到Experience Manager應用程式的整合Test自動化測試對於開發任何應用程式都是必不可少的。 本演示將介紹測試Java代碼的各種工具，從單元測試的基礎到功能和整合測試。 瞭解如何以最有效的方式將test添加到代碼庫，而不管您是要test簡單的實用程式方法、某些OSGi服務還是HTTP終結點。
+description: 從Experience Manager應用程式的單元測試到整合測試自動化測試是開發任何應用程式所不可或缺的。 本簡報會逐步解說各種測試Java程式碼的工具，從單元測試的基本知識到功能和整合測試。 瞭解如何以最有效的方式將測試輕鬆新增到您的程式碼基底，無論您是要測試簡單的公用程式方法、某些OSGi服務，還是HTTP端點。
 uuid: beb88371-ac62-4c94-9115-886455778a38
 discoiquuid: 5a831981-2313-45d6-8d5e-996fc88debb2
 targetaudience: target-audience advanced
@@ -14,15 +14,15 @@ ht-degree: 1%
 
 # 用於測試Adobe Experience Manager應用程式的工具{#tools-to-use-for-testing-adobe-experience-manager-applications}
 
-從單元測試到Experience Manager應用程式的整合Test自動化測試對於開發任何應用程式都是必不可少的。 本演示將介紹測試Java代碼的各種工具，從單元測試的基礎到功能和整合測試。 瞭解如何以最有效的方式將test添加到代碼庫，而不管您是要test簡單的實用程式方法、某些OSGi服務還是HTTP終結點。
+從Experience Manager應用程式的單元測試到整合測試自動化測試是開發任何應用程式所不可或缺的。 本簡報會逐步解說各種測試Java程式碼的工具，從單元測試的基本知識到功能和整合測試。 瞭解如何以最有效的方式將測試輕鬆新增到您的程式碼基底，無論您是要測試簡單的公用程式方法、某些OSGi服務，還是HTTP端點。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19302/?quality=9)
 
-*於2016年12月14日提交*
+*2016年12月14日提交*
 
-**羅伯特·蒙泰亞努和卡斯滕·齊格勒**
+**Robert Munteanu和Carsten Ziegeler**
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--

@@ -1,6 +1,6 @@
 ---
-title: 作業處理和卸載介AEM紹5.6.1。
-description: 獲取高級作業處理功能的技術介紹。 作業處理是複製和工作流處理等功能的基礎結構。 瞭解發現模組以及改進的作業處理API和新功能。
+title: AEM 5.6.1中的工作處理與解除安裝簡介。
+description: 取得進階工作處理功能的技術簡介。 工作處理是復寫和工作流程處理等功能的基礎架構。 瞭解探索模組以及改進的工作處理API和新功能。
 uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
@@ -12,30 +12,30 @@ ht-degree: 1%
 
 ---
 
-# 5.6.1中的作業處理和卸AEM載介紹。 {#introduction-of-job-handling-and-offloading-in-aem}
+# 介紹AEM 5.6.1中的工作處理與解除安裝。 {#introduction-of-job-handling-and-offloading-in-aem}
 
-作業處理是複製和工作流處理等功能的基礎結構。 這是高級作業處理功能的技術介紹。 同時，對新的發現模組和改進的作業處理API和新的功能進行了討論。 在作業處理和發現的基礎上，卸載框架側重於在非群集實例之間分發作業。 我們將更仔細地瞭解卸載如何擴展分佈式作業處理。 然後，我們將研究它如何用於當前工作流卸載的實現，以及如何在自己的項目中使用它。
+工作處理是復寫和工作流程處理等功能的基礎架構。 這是進階作業處理功能的技術簡介。 我們將討論新的探索模組，以及改進的工作處理API和新功能。 解除安裝架構以作業處理和探索為基礎，著重於在非叢集執行個體之間分配作業。 我們將更仔細地瞭解解除安裝如何擴展分散式工作處理。 然後，我們會檢視它如何用於目前的工作流程解除安裝實施，以及人們如何可以在自己的專案中使用它。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*2013年7月24日交付*
+*傳送日期： 2013年7月24日*
 
-**提交者：**
+**展示者：**
 
-Carsten Ziegeler，高級開發人員，Adobe
+Carsten Ziegeler，Adobe資深開發人員
 
-Marc Pfaff，首席開發人員，Adobe
+Marc Pfaff，Adobe首席開發人員
 
-演示者幻燈片 — 第1部分
+簡報者投影片 — 第1部分
 
 [取得檔案](assets/jobhandling.pdf)
 
-演示者幻燈片 — 第2部分
+簡報者投影片 — 第2部分
 
 [取得檔案](assets/offloading.pdf)
 
 ## 相關連結 {#related-links}
 
 * [Apache Sling事件和作業處理](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [發現API及其實現](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [卸載作業](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Discovery API及其實施](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [正在解除安裝工作](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

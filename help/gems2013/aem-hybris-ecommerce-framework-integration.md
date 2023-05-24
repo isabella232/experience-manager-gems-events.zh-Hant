@@ -1,6 +1,6 @@
 ---
-title: hybris/AEM 5.6電子商務框架整合
-description: 瞭解我們的Hybris與整合解決方案AEM。 我們首先概述了連接器如何與電子商務框架整合以及使用此解決方案時的一般工作流。 然後，我們將深入討論如何擴展和/或定制連接器以適應特定於項目的需求。
+title: hybris/AEM 5.6電子商務架構整合
+description: 瞭解我們的Hybris與AEM整合解決方案。 我們先概述聯結器如何與電子商務架構整合，以及使用此解決方案時的一般工作流程。 接著，我們將深入探討如何擴充及/或自訂聯結器，以因應專案特定需求。
 uuid: d09192f9-c9a3-43db-8538-d581838e1e27
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
@@ -12,19 +12,19 @@ ht-degree: 1%
 
 ---
 
-# hybris/AEM 5.6電子商務框架整合{#hybris-aem-ecommerce-framework-integration}
+# hybris/AEM 5.6電子商務架構整合{#hybris-aem-ecommerce-framework-integration}
 
-在本會議中，我們介紹了我們的Hybris與整合解決AEM方案。 我們首先概述了連接器如何與電子商務框架整合以及使用此解決方案時的一般工作流。 然後，我們將深入討論如何擴展和/或定制連接器以適應特定於項目的需求。
+在本次研討會中，我們針對Hybris介紹AEM的整合解決方案。 我們先概述聯結器如何與電子商務架構整合，以及使用此解決方案時的一般工作流程。 接著，我們將深入探討如何擴充及/或自訂聯結器，以因應專案特定需求。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
-*2013年5月13日交付*
+*2013年5月13日送達*
 
-**提交者：**
+**展示者：**
 
-Felix Oghina,Adobe產品開發人員
+Felix Oghina，Adobe產品開發人員
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
 

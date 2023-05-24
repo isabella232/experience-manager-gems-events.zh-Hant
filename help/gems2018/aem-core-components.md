@@ -1,6 +1,6 @@
 ---
 title: AEM 核心元件
-description: 瞭解有關核心元件及其相關功能的所有資訊，瞭解它們的工作方式以及它們如何改變遊戲。 瞭解哪些策略可以將建立和維護所需的元件數量減少一個數量級。
+description: 瞭解核心元件及其相關功能的所有資訊，以及它們如何運作和改變遊戲。 瞭解可讓您將需要建立和維護的元件數量減少一個數量級的策略。
 uuid: 8bfd82ac-b61d-4ff2-9251-3664456e6b41
 discoiquuid: b7e90b65-d6e9-49f5-b43c-3c47cf6aeae8
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
@@ -14,18 +14,18 @@ ht-degree: 6%
 
 # AEM 核心元件{#aem-core-components}
 
-瞭解有關核心元件及其相關功能的所有資訊，瞭解它們的工作方式以及它們如何改變遊戲。 瞭解哪些策略可以將建立和維護所需的元件數量減少一個數量級。
+瞭解核心元件及其相關功能的所有資訊，以及它們如何運作和改變遊戲。 瞭解可讓您將需要建立和維護的元件數量減少一個數量級的策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25674/)
 
-*已交付12/5/18*
+*2018年12月5日提供*
 
-**提交者：**
+**展示者：**
 
-Gabriel Walt ，產品經理，Adobe
+Adobe產品經理Gabriel Walt
 
-[核AEM心元件文檔](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[AEM核心元件檔案](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
 
-AEM Gems — 核AEM心元件 — 日期：12/05/2018
+AEM Gems - AEM核心元件 — 日期： 2018/12/05
 
 [取得檔案](assets/aem-gems-aem-sitescorecomponents-12052018.pdf)

@@ -1,6 +1,6 @@
 ---
 title: AEM 5.6升級機制
-description: 瞭解CQ/中的升級機制AEM，該機制允許通過將CQ/jar檔案替換為新檔案來升級CQ本身以及自定義應用程式和內AEM容。 我們將介紹一般升級方案，介紹升級擴展點，解釋我們如何test升級機制，並對與升級相關的一些技術難題發表評論。
+description: 瞭解CQ/AEM中的升級機制，該機制允許升級CQ本身以及自訂應用計畫和內容，只需將CQ/AEM jar檔案替換為新的檔案即可。 我們將介紹一般升級案例、說明升級擴充功能點、說明我們如何測試升級機制，並評論與升級相關的一些技術挑戰。
 uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
@@ -14,17 +14,17 @@ ht-degree: 1%
 
 # AEM 5.6升級機制 {#aem-upgrade-mechanisms}
 
-本會話介紹CQ/中的升級機制AEM，通過將CQ/jar檔案替換為新檔案，可升級CQ本身以及自定義應用程式和內AEM容。 我們將介紹一般升級方案，介紹升級擴展點，解釋我們如何test升級機制，並對與升級相關的一些技術難題發表評論。
+本會議說明CQ/AEM中的升級機制，該機制允許升級CQ本身以及自訂應用程式和內容，只需以新檔案取代CQ/AEM jar檔案即可。 我們將介紹一般升級案例、說明升級擴充功能點、說明我們如何測試升級機制，並評論與升級相關的一些技術挑戰。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19576/?quality=9)
 
-*2013年5月22日交付*
+*2013年5月22日送達*
 
-**提交者：**
+**展示者：**
 
-Bertrand Delacretaz，高級開發人員，Adobe
+Bertrand Delacretaz，Adobe資深開發人員
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/cqgems-bdelacretaz-cq-upgrades-2013-05-22.pdf)
 
