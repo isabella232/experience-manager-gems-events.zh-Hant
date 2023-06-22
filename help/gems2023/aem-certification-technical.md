@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: 1f975085f0d25c98fad62e7cc5635216b26ae1d2
+source-git-commit: 1143058f0cb213a765b8cbdab1779fe79b7a4335
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 掌握Experience Manager認證的藝術：做好準備、做好準備、獲得認證！
 
-此網路研討會將於2023年6月28日（太平洋標準時間上午8點）舉行。 請透過以下方式註冊： [事件頁面連結](https://adobe.ly/3Ni6XeL).
+此網路研討會將於下列日期舉行： **6月28**， 2023 (上午8點(PST))。 請透過以下方式註冊： [事件頁面連結](https://adobe.ly/3Ni6XeL).
 
 ## 工作階段說明
 
