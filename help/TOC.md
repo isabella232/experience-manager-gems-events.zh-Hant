@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS活動
 user-guide-description: 瞭解Adobe Experience Manager專家提供的一系列技術深入探討AEM Gems。
 breadcrumb-title: AEM GEMs活動
 feature-set: Experience Manager
-source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
+source-git-commit: 401634150d018e42a35556a0e5d9df19ed7ec74f
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '639'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 3%
 
 + [概觀](overview.md)
 + 2023 {#gems2023}
+   + [AEM認證 — 技術](/help/gems2023/aem-certification-technical.md)
    + [透過快速開發環境加速Experience Manageras a Cloud Service開發](/help/gems2023/Rapid-Development-Environments.md)
    + [適用於內部部署和AMS環境的AEM Best Practices Analyzer](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
