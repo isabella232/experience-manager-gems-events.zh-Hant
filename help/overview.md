@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM講座
-source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
+source-git-commit: e499198cba2a36b4abd389932254b1ff1285caf6
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 <img alt="數位體驗" src="./assets/ADX_Gems.png"/>
 
-## 先前的AEM GEM活動！
+## 即將舉辦的AEM GEM活動！
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,10 +43,10 @@ ht-degree: 2%
 </table>
 
 --->
-我們最新的AEM GEM網路研討會於 **透過快速開發環境加速Adobe Experience ManagerCloud Service開發** 執行日期 *2023年2月22日*.
-此 **錄製** 可在此處找到： [AEM快速開發環境網路研討會](/help/gems2023/Rapid-Development-Environments.md)
+即將於 **6月28日上午8點（太平洋標準時間）** 我們有一個關於AEM認證（技術）的網路研討會： **掌握Experience Manager認證的藝術：做好準備、做好準備、獲得認證！**
 
 >[!NOTE]
+> 即將到來的活動需要註冊 — 請在我們的 [事件頁面](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-master-the-art-of-experience-manager-certification-get-ready-get-set-get-certified/).
 >
 > 報名參加即將舉辦的AEM GEM網路研討會，以接收相關通知 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
 
